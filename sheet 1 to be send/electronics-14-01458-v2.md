@@ -13416,1263 +13416,354 @@ FAS but are not mentioned in this article.
 
 REFERENCES section begins on page 44.
 
-- [1] N. Rajatheva et al., “White paper on broadband connectivity in 6G,”
-2020.
-- [2] Z. Zhang et al., “6G wireless networks: Vision, requirements, archi-
-tecture, and key technologies,” IEEE Veh. Technol. Mag., vol. 14, no.
-3, pp. 28–41, Sept. 2019.
-- [3] W. Saad, M. Bennis and M. Chen, “A vision of 6G wireless systems:
-Applications, trends, technologies, and open research problems,” IEEE
-Netw., vol. 34, no. 3, pp. 134–142, May/Jun. 2020.
-- [4] F. Tariq et al., “A speculative study on 6G,” IEEE Wireless Commun.,
-vol. 27, no. 4, pp. 118–125, Aug. 2020.
-- [5] International Telecommunication Union - Radiocommunication Sector,
-“Recommendation ITU-R M.2160-0 M series: Mobile, radiodetermi-
-nation, amateur and related satellite services – framework and overall
-objectives of the future development of IMT for 2030 and beyond,”
-ITU Publications – Recommendations, Nov. 2023.
-- [6] J. Du et al., “MEC-assisted immersive VR video streaming over
-terahertz wireless networks: A deep reinforcement learning approach,”
-IEEE Internet of Things J., vol. 7, no. 10, pp. 9517–9529, Oct. 2020.
-- [7] H. Viswanathan and P. E. Mogensen, “Communications in the 6G era,”
-IEEE Access, vol. 8, pp. 57063–57074, Mar. 2020.
-- [8] T. Tao et al., “6G hyper reliable and low-latency communication
-– Requirement analysis and proof of concept,” in Proc. IEEE Veh.
-Technol. Conf. Fall, 10-13 Oct. 2023, Hong Kong.
-- [9] X. Chen et al., “Massive access for 5G and beyond,” IEEE J. Select.
-Areas Commun., vol. 39, no. 3, pp. 615–637, Mar. 2021.
-- [10] L. Liu et al., “Sparse signal processing for grant-free massive connec-
-tivity: A future paradigm for random access protocols in the internet
-of things,” IEEE Sig. Process. Mag., vol. 35, no. 5, pp. 88–99, Sept.
-2018.
-- [11] X. Chen, S. Leng, J. He and L. Zhou, “Deep-learning-based intelligent
-intervehicle distance control for 6G-enabled cooperative autonomous
-driving,” IEEE Internet of Things J., vol. 8, no. 20, pp. 15180-1-5190,
-Oct. 2021.
-- [12] L. Mucchi et al., “How 6G technology can change the future wireless
-healthcare,” in Proc. 6G Wireless Summit, 17-20 Mar. 2020, Levi,
-Finland.
-- [13] W. Sun, H. Zhang, R. Wang and Y. Zhang, “Reducing ofﬂoading
-latency for digital twin edge networks in 6G,” IEEE Trans. Veh.
-Technol., vol. 69, no. 10, pp. 12240–12251, Oct. 2020.
-- [14] Y. Lu, X. Huang, K. Zhang, S. Maharjan and Y. Zhang, “Low-latency
-federated learning and blockchain for edge association in digital twin
-empowered 6G networks,” IEEE Trans. Industrial Informatics, vol. 17,
-no. 7, pp. 5098–5107, Jul. 2021.
-- [15] J. A. Zhang et al., “An overview of signal processing techniques for
-joint communication and radar sensing,” IEEE J. Select. Topics Sig.
-Process., vol. 15, no. 6, pp. 1295–1315, Nov. 2021.
-- [16] F. Liu et al., “Integrated sensing and communications: Toward dual-
-functional wireless networks for 6G and beyond,” IEEE J. Select. Areas
-Commun., vol. 40, no. 6, pp. 1728–1767, Jun. 2022.
-- [17] K. B. Letaief, W. Chen, Y. Shi, J. Zhang, and Y.-J. A. Zhang, “The
-roadmap to 6G: AI empowered wireless networks,” IEEE Commun.
-Mag., vol. 57, no. 8, pp. 84–90, Aug. 2019.
-- [18] Y. Liu et al., “Evolution of NOMA toward next generation multiple
-access (NGMA) for 6G,” IEEE J. Select. Areas Commun., vol. 40,
-no. 4, pp. 1037–1071, Apr. 2022.
-- [19] Y. Liu et al., “Developing NOMA to next generation multiple access:
-Future vision and research opportunities,” IEEE Wireless Commun.,
-vol. 29, no. 6, pp. 120–127, Dec. 2022.
-- [20] M. Giordani and M. Zorzi, “Non-terrestrial networks in the 6G era:
-Challenges and opportunities,” IEEE Netw., vol. 35, no. 2, pp. 244–
-251, Mar./Apr. 2021.
-- [21] C. Huang, A. Zappone, G. C. Alexandropoulos, M. Debbah and C.
-Yuen, “Reconﬁgurable intelligent surfaces for energy efﬁciency in
-wireless communication,” IEEE Trans. Wireless Commun., vol. 18, no.
-8, pp. 4157–4170, Aug. 2019.
-- [22] E. Basar et al., “Wireless communications through reconﬁgurable
-intelligent surfaces,” IEEE Access, vol. 7, pp. 116753–116773, 2019.
-45
-- [23] M. Di Renzo et al., “Smart radio environments empowered by recon-
-ﬁgurable intelligent surfaces: How it works, state of research, and the
-road ahead,” IEEE J. Select. Areas Commun., vol. 38, no. 11, pp. 2450–
+- [1] N. Rajatheva et al., “White paper on broadband connectivity in 6G,” 2020.
+- [2] Z. Zhang et al., “6G wireless networks: Vision, requirements, archi-tecture, and key technologies,” IEEE Veh. Technol. Mag., vol. 14, no.3, pp. 28–41, Sept. 2019.
+- [3] W. Saad, M. Bennis and M. Chen, “A vision of 6G wireless systems: Applications, trends, technologies, and open research problems,” IEEE Netw., vol. 34, no. 3, pp. 134–142, May/Jun. 2020.
+- [4] F. Tariq et al., “A speculative study on 6G,” IEEE Wireless Commun., vol. 27, no. 4, pp. 118–125, Aug. 2020.
+- [5] International Telecommunication Union - Radiocommunication Sector, “Recommendation ITU-R M.2160-0 M series: Mobile, radiodetermi-nation, amateur and related satellite services – framework and overall objectives of the future development of IMT for 2030 and beyond,” ITU Publications – Recommendations, Nov. 2023.
+- [6] J. Du et al., “MEC-assisted immersive VR video streaming over terahertz wireless networks: A deep reinforcement learning approach,” IEEE Internet of Things J., vol. 7, no. 10, pp. 9517–9529, Oct. 2020.
+- [7] H. Viswanathan and P. E. Mogensen, “Communications in the 6G era,” IEEE Access, vol. 8, pp. 57063–57074, Mar. 2020.
+- [8] T. Tao et al., “6G hyper reliable and low-latency communication– Requirement analysis and proof of concept,” in Proc. IEEE Veh.Technol. Conf. Fall, 10-13 Oct. 2023, Hong Kong.
+- [9] X. Chen et al., “Massive access for 5G and beyond,” IEEE J. Select. Areas Commun., vol. 39, no. 3, pp. 615–637, Mar. 2021.
+- [10] L. Liu et al., “Sparse signal processing for grant-free massive connec-tivity: A future paradigm for random access protocols in the internet of things,” IEEE Sig. Process. Mag., vol. 35, no. 5, pp. 88–99, Sept. 2018.
+- [11] X. Chen, S. Leng, J. He and L. Zhou, “Deep-learning-based intelligent intervehicle distance control for 6G-enabled cooperative autonomous driving,” IEEE Internet of Things J., vol. 8, no. 20, pp. 15180-1-5190, Oct. 2021.
+- [12] L. Mucchi et al., “How 6G technology can change the future wireless healthcare,” in Proc. 6G Wireless Summit, 17-20 Mar. 2020, Levi, Finland.
+- [13] W. Sun, H. Zhang, R. Wang and Y. Zhang, “Reducing ofﬂoading latency for digital twin edge networks in 6G,” IEEE Trans. Veh. Technol., vol. 69, no. 10, pp. 12240–12251, Oct. 2020.
+- [14] Y. Lu, X. Huang, K. Zhang, S. Maharjan and Y. Zhang, “Low-latency federated learning and blockchain for edge association in digital twin empowered 6G networks,” IEEE Trans. Industrial Informatics, vol. 17, no. 7, pp. 5098–5107, Jul. 2021.
+- [15] J. A. Zhang et al., “An overview of signal processing techniques for joint communication and radar sensing,” IEEE J. Select. Topics Sig. Process., vol. 15, no. 6, pp. 1295–1315, Nov. 2021.
+- [16] F. Liu et al., “Integrated sensing and communications: Toward dual-functional wireless networks for 6G and beyond,” IEEE J. Select. Areas Commun., vol. 40, no. 6, pp. 1728–1767, Jun. 2022.
+- [17] K. B. Letaief, W. Chen, Y. Shi, J. Zhang, and Y.-J. A. Zhang, “The roadmap to 6G: AI empowered wireless networks,” IEEE Commun. Mag., vol. 57, no. 8, pp. 84–90, Aug. 2019.
+- [18] Y. Liu et al., “Evolution of NOMA toward next generation multiple access (NGMA) for 6G,” IEEE J. Select. Areas Commun., vol. 40, no. 4, pp. 1037–1071, Apr. 2022.
+- [19] Y. Liu et al., “Developing NOMA to next generation multiple access: Future vision and research opportunities,” IEEE Wireless Commun., vol. 29, no. 6, pp. 120–127, Dec. 2022.
+- [20] M. Giordani and M. Zorzi, “Non-terrestrial networks in the 6G era: Challenges and opportunities,” IEEE Netw., vol. 35, no. 2, pp. 244–251, Mar./Apr. 2021.
+- [21] C. Huang, A. Zappone, G. C. Alexandropoulos, M. Debbah and C. Yuen, “Reconﬁgurable intelligent surfaces for energy efﬁciency in wireless communication,” IEEE Trans. Wireless Commun., vol. 18, no. 8, pp. 4157–4170, Aug. 2019.
+- [22] E. Basar et al., “Wireless communications through reconﬁgurable intelligent surfaces,” IEEE Access, vol. 7, pp. 116753–116773, 2019.
+- [23] M. Di Renzo et al., “Smart radio environments empowered by recon-ﬁgurable intelligent surfaces: How it works, state of research, and the road ahead,” IEEE J. Select. Areas Commun., vol. 38, no. 11, pp. 2450–
 2525, Nov. 2020.
-- [24] T. S. Rappaport et al., “Wireless communications and applications
-above 100 GHz: Opportunities and challenges for 6G and beyond,”
-IEEE Access, vol. 7, pp. 78729–78757, 2019.
-- [25] V. Petrov, T. Kurner and I. Hosako, “IEEE 802.15.3d: First standardiza-
-tion efforts for sub-terahertz band communications toward 6G,” IEEE
-Commun. Mag., vol. 58, no. 11, pp. 28–33, Nov. 2020.
-- [26] Z. Wang et al., “Extremely large-scale MIMO: Fundamentals, chal-
-lenges, solutions, and future directions,” IEEE Wireless Commun., vol.
-31, no. 3, pp. 117–124, Jun. 2024.
-- [27] Z. Wan, J. Zhu and L. Dai, “Can continuous aperture MIMO obtain
-more mutual information than discrete MIMO?,” IEEE Commun. Lett.,
-vol. 27, no. 12, pp. 3185–3189, Dec. 2023.
-- [28] H. Haas, L. Yin, Y. Wang and C. Chen, “What is LiFi?,” J. Lightwave
-Technol., vol. 34, no. 6, pp. 1533–1544, Mar. 2016.
-- [29] S. J. Nawaz, S. K. Sharma, S. Wyne, M. N. Patwary and M. Asaduz-
-zaman, “Quantum machine learning for 6G communication networks:
-State-of-the-art and vision for the future,” IEEE Access, vol. 7, pp.
-46317–46350, 2019.
-- [30] C. Wang and A. Rahman, “Quantum-enabled 6G wireless networks:
-Opportunities and challenges,” IEEE Wireless Commun., vol. 29, no.
-1, pp. 58–69, Feb. 2022.
-- [31] R. Liu et al., “Beginning of the journey toward 6G: Vision and
-framework,” IEEE Commun. Mag., vol. 61, no. 10, pp. 8–9, Oct. 2023.
-- [32] K.-K. Wong, K.-F. Tong, Y. Zhang, and Z. Zheng, “Fluid antenna
-system for 6G: When Bruce Lee inspires wireless communications,”
-Elect. Lett., vol. 56, no. 24, pp. 1288–1290, Nov. 2020.
-- [33] K.-K. Wong, K.-F. Tong, Y. Shen, Y. Chen, and Y. Zhang, “Bruce Lee-
-inspired ﬂuid antenna system: Six research topics and the potentials for
-6G,” Frontiers Commun. Netw., vol. 3, no. 853416, Mar. 2022.
-- [34] S. Sanayei and A. Nosratinia, “Antenna selection in MIMO systems,”
-IEEE Commun. Mag., vol. 42, no. 10, pp. 68–73, Oct. 2004.
-- [35] A. F. Molisch and M. Z. Win, “MIMO systems with antenna selection,”
-IEEE Microwave Mag., vol. 5, no. 1, pp. 46–56, Mar. 2004.
-- [36] H. Gao, Y. Su, S. Zhang and M. Diao, “Antenna selection and power
-allocation design for 5G massive MIMO uplink networks,” China
-Commun., vol. 16, no. 4, pp. 1–15, Apr. 2019.
-- [37] L. Kong, Y. Zou, Y. Jiang and J. Zhu, “Power allocation and antenna
-selection for heterogeneous cellular networks,” China Commun., vol.
-20, no. 8, pp. 220–233, Aug. 2023.
-- [38] G. Bo, L. Ren, X. Xu, Y. Du, and S. Dou, “Recent progress on liquid
-metals and their applications,” Advances in Physics: X, vol. 3, no. 1,
-pp. 412–442, Mar. 2018.
-- [39] K. N. Paracha, A. D. Butt, A. S. Alghamdi, S. A. Babale, and P. J.
-Soh, “Liquid metal antennas: Materials, fabrication and applications,”
-Sensors, vol. 20, no. 1, p. 177, Dec. 2019.
-- [40] Y. Huang, L. Xing, C. Song, S. Wang, and F. Elhouni, “Liquid antennas:
-Past, present and future,” IEEE Open J. Antennas & Propag., vol. 2,
-pp. 473–487, Mar. 2021.
-- [41] J. O. Martinez et al., “Toward liquid reconﬁgurable antenna arrays
-for wireless communications,” IEEE Commun. Mag., vol. 60, no. 12,
-pp. 145–151, Dec. 2022.
-- [42] B. Cetiner et al., “Multifunctional reconﬁgurable MEMS integrated
-antennas for adaptive MIMO systems,” IEEE Commun. Mag., vol. 42,
-no. 12, pp. 62–70, Dec. 2004.
-- [43] A. Grau Besoli and F. De Flaviis, “A multifunctional reconﬁgurable
-pixeled antenna using MEMS technology on printed circuit board,”
-IEEE Trans. Antennas & Propag., vol. 59, no. 12, pp. 4413–4424,
-Dec. 2011.
-- [44] S. Song and R. D. Murch, “An efﬁcient approach for optimizing
-frequency reconﬁgurable pixel antennas using genetic algorithms,”
-IEEE Trans. Antennas & Propag., vol. 62, no. 2, pp. 609–620, Feb.
-2014.
-- [45] T. V. Hoang, V. Fusco, M. A. B. Abbasi, and O. Yurduseven, “Single-
-pixel polarimetric direction of arrival estimation using programmable
-coding metasurface aperture,” Scientiﬁc Rep., vol. 11, no. 1, p. 23830,
+- [24] T. S. Rappaport et al., “Wireless communications and applications above 100 GHz: Opportunities and challenges for 6G and beyond,” IEEE Access, vol. 7, pp. 78729–78757, 2019.
+- [25] V. Petrov, T. Kurner and I. Hosako, “IEEE 802.15.3d: First standardiza-tion efforts for sub-terahertz band communications toward 6G,” IEEE Commun. Mag., vol. 58, no. 11, pp. 28–33, Nov. 2020.
+- [26] Z. Wang et al., “Extremely large-scale MIMO: Fundamentals, chal-lenges, solutions, and future directions,” IEEE Wireless Commun., vol. 31, no. 3, pp. 117–124, Jun. 2024.
+- [27] Z. Wan, J. Zhu and L. Dai, “Can continuous aperture MIMO obtain more mutual information than discrete MIMO?,” IEEE Commun. Lett., vol. 27, no. 12, pp. 3185–3189, Dec. 2023.
+- [28] H. Haas, L. Yin, Y. Wang and C. Chen, “What is LiFi?,” J. Lightwave Technol., vol. 34, no. 6, pp. 1533–1544, Mar. 2016.
+- [29] S. J. Nawaz, S. K. Sharma, S. Wyne, M. N. Patwary and M. Asaduz-zaman, “Quantum machine learning for 6G communication networks: State-of-the-art and vision for the future,” IEEE Access, vol. 7, pp. 46317–46350, 2019.
+- [30] C. Wang and A. Rahman, “Quantum-enabled 6G wireless networks: Opportunities and challenges,” IEEE Wireless Commun., vol. 29, no.1, pp. 58–69, Feb. 2022.
+- [31] R. Liu et al., “Beginning of the journey toward 6G: Vision and framework,” IEEE Commun. Mag., vol. 61, no. 10, pp. 8–9, Oct. 2023.
+- [32] K.-K. Wong, K.-F. Tong, Y. Zhang, and Z. Zheng, “Fluid antenna system for 6G: When Bruce Lee inspires wireless communications,” Elect. Lett., vol. 56, no. 24, pp. 1288–1290, Nov. 2020.
+- [33] K.-K. Wong, K.-F. Tong, Y. Shen, Y. Chen, and Y. Zhang, “Bruce Lee-inspired ﬂuid antenna system: Six research topics and the potentials for 6G,” Frontiers Commun. Netw., vol. 3, no. 853416, Mar. 2022.
+- [34] S. Sanayei and A. Nosratinia, “Antenna selection in MIMO systems,” IEEE Commun. Mag., vol. 42, no. 10, pp. 68–73, Oct. 2004.
+- [35] A. F. Molisch and M. Z. Win, “MIMO systems with antenna selection,” IEEE Microwave Mag., vol. 5, no. 1, pp. 46–56, Mar. 2004.
+- [36] H. Gao, Y. Su, S. Zhang and M. Diao, “Antenna selection and power allocation design for 5G massive MIMO uplink networks,” China Commun., vol. 16, no. 4, pp. 1–15, Apr. 2019.
+- [37] L. Kong, Y. Zou, Y. Jiang and J. Zhu, “Power allocation and antenna selection for heterogeneous cellular networks,” China Commun., vol. 20, no. 8, pp. 220–233, Aug. 2023.
+- [38] G. Bo, L. Ren, X. Xu, Y. Du, and S. Dou, “Recent progress on liquid metals and their applications,” Advances in Physics: X, vol. 3, no. 1, pp. 412–442, Mar. 2018.
+- [39] K. N. Paracha, A. D. Butt, A. S. Alghamdi, S. A. Babale, and P. J. Soh, “Liquid metal antennas: Materials, fabrication and applications,” Sensors, vol. 20, no. 1, p. 177, Dec. 2019.
+- [40] Y. Huang, L. Xing, C. Song, S. Wang, and F. Elhouni, “Liquid antennas: Past, present and future,” IEEE Open J. Antennas & Propag., vol. 2, pp. 473–487, Mar. 2021.
+- [41] J. O. Martinez et al., “Toward liquid reconﬁgurable antenna arrays for wireless communications,” IEEE Commun. Mag., vol. 60, no. 12, pp. 145–151, Dec. 2022.
+- [42] B. Cetiner et al., “Multifunctional reconﬁgurable MEMS integrated antennas for adaptive MIMO systems,” IEEE Commun. Mag., vol. 42, no. 12, pp. 62–70, Dec. 2004.
+- [43] A. Grau Besoli and F. De Flaviis, “A multifunctional reconﬁgurable pixeled antenna using MEMS technology on printed circuit board,” IEEE Trans. Antennas & Propag., vol. 59, no. 12, pp. 4413–4424, Dec. 2011.
+- [44] S. Song and R. D. Murch, “An efﬁcient approach for optimizing frequency reconﬁgurable pixel antennas using genetic algorithms,” IEEE Trans. Antennas & Propag., vol. 62, no. 2, pp. 609–620, Feb. 2014.
+- [45] T. V. Hoang, V. Fusco, M. A. B. Abbasi, and O. Yurduseven, “Single-pixel polarimetric direction of arrival estimation using programmable coding metasurface aperture,” Scientiﬁc Rep., vol. 11, no. 1, p. 23830,
 Dec. 2021.
-- [46] L. Jing, M. Li, and R. Murch, “Compact pattern reconﬁgurable pixel
-antenna with diagonal pixel connections,” IEEE Trans. Antennas &
-Propag., vol. 70, no. 10, pp. 8951–8961, Oct. 2022.
-- [47] J. Hejres, “Null steering in phased arrays by controlling the positions of
-selected elements,” IEEE Trans. Antennas & Propag., vol. 52, no. 11,
-pp. 2891–2895, Nov. 2004.
-- [48] S. Basbug, “Design and synthesis of antenna array with movable
-elements along semicircular paths,” IEEE Antennas & Wireless Propag.
-Lett., vol. 16, pp. 3059–3062, Oct. 2017.
-- [49] M. C. Johnson, S. L. Brunton, N. B. Kundtz, and J. N. Kutz, “Sidelobe
-canceling for reconﬁgurable holographic metamaterial antenna,” IEEE
-Trans. Antennas & Propag., vol. 63, no. 4, pp. 1881–1886, Apr. 2015.
-- [50] O. Yurduseven, D. L. Marks, T. Fromenteze, and D. R. Smith, “Dynam-
-ically reconﬁgurable holographic metasurface aperture for a mills-cross
-monochromatic microwave camera,” Opt. Express, vol. 26, pp. 5281–
+- [46] L. Jing, M. Li, and R. Murch, “Compact pattern reconﬁgurable pixel antenna with diagonal pixel connections,” IEEE Trans. Antennas & Propag., vol. 70, no. 10, pp. 8951–8961, Oct. 2022.
+- [47] J. Hejres, “Null steering in phased arrays by controlling the positions of selected elements,” IEEE Trans. Antennas & Propag., vol. 52, no. 11, pp. 2891–2895, Nov. 2004.
+- [48] S. Basbug, “Design and synthesis of antenna array with movable elements along semicircular paths,” IEEE Antennas & Wireless Propag. Lett., vol. 16, pp. 3059–3062, Oct. 2017.
+- [49] M. C. Johnson, S. L. Brunton, N. B. Kundtz, and J. N. Kutz, “Sidelobe canceling for reconﬁgurable holographic metamaterial antenna,” IEEE Trans. Antennas & Propag., vol. 63, no. 4, pp. 1881–1886, Apr. 2015.
+- [50] O. Yurduseven, D. L. Marks, T. Fromenteze, and D. R. Smith, “Dynam-ically reconﬁgurable holographic metasurface aperture for a mills-cross monochromatic microwave camera,” Opt. Express, vol. 26, pp. 5281–
 5291, Mar. 2018.
-- [51] K. K. Wong, A. Shojaeifard, K.-F. Tong, and Y. Zhang, “Performance
-limits of ﬂuid antenna systems,” IEEE Commun. Lett., vol. 24, no. 11,
-pp. 2469–2472, Nov. 2020.
-- [52] K.-K. Wong, A. Shojaeifard, K.-F. Tong, and Y. Zhang, “Fluid antenna
-systems,” IEEE Trans. Wireless Commun., vol. 20, no. 3, pp. 1950–
-1962, Mar. 2021.
-- [53] S. Lee, Be Water, My Friend: The Teachings of Bruce Lee. Flatiron
-Books, 2020.
-- [54] L. Zhu and K. K. Wong, “Historical review of ﬂuid antenna and
-movable antenna,” arXiv preprint, arXiv:2401.02362v2, 2024.
-- [55] A. J. Paulraj and T. Kailath, “Increasing capacity in wireless broadcast
-systems using distributed transmission/directional reception (DTDR),”
-Sept. 6 1994. US Patent 5,345,599.
-- [56] G. J. Foschini and M. J. Gans, “On limits of wireless communications
-in a fading environment when using multiple antennas,” Wireless Pers.
-Commun., vol. 6, no. 3, pp. 311–335, Mar. 1998.
-- [57] A. Adjoudani et al., “Prototype experience for MIMO BLAST over
-third-generation wireless system,” IEEE J. Select. Areas Commun., vol.
-21, no. 3, pp. 440–451, Apr. 2003.
-- [58] K.-K. Wong, R. D. Murch, R.-K. Cheng, and K. B. Letaief, “Optimiz-
-ing the spectral efﬁciency of multiuser MIMO smart antenna systems,”
-in Proc. IEEE Wireless Commun. Netw. Conf., vol. 1, pp. 426–430,
-23-28 Sept. 2000, Chicago, IL, USA.
-- [59] K.-K. Wong, R. D. Murch and K. B. Letaief, “Performance enhance-
-ment of multiuser MIMO wireless communication systems,” IEEE
-Trans. Commun., vol. 50, no. 12, pp. 1960–1970, Dec. 2002.
-- [60] S. Vishwanath, N. Jindal and A. Goldsmith, “Duality, achievable rates,
-and sum-rate capacity of Gaussian MIMO broadcast channels,” IEEE
-Trans. Inf. Theory, vol. 49, no. 10, pp. 2658–2668, Oct. 2003.
-- [61] Q. H. Spencer, A. L. Swindlehurst and M. Haardt, “Zero-forcing meth-
-ods for downlink spatial multiplexing in multiuser MIMO channels,”
-IEEE Trans. Sig. Process., vol. 52, no. 2, pp. 461–471, Feb. 2004.
-- [62] T. L. Marzetta, “Noncooperative cellular wireless with unlimited num-
-bers of base station antennas,” IEEE Trans. Wireless Commun., vol. 9,
-no. 11, pp. 3590–3600, Nov. 2010.
-- [63] E. G. Larsson, O. Edfors, F. Tufvesson and T. L. Marzetta, “Massive
-MIMO for next generation wireless systems,” IEEE Commun. Mag.,
-vol. 52, no. 2, pp. 186–195, Feb. 2014.
-- [64] Z. Wang et al., “A tutorial on extremely large-scale MIMO for 6G:
-Fundamentals, signal processing, and applications,” IEEE Commun.
-Surv. & Tut., vol. 26, no. 3, pp. 1560–1605, thirdquarter 2024.
-- [65] L. Zhu, W. Ma, and R. Zhang, “Movable-antenna array enhanced
-beamforming: Achieving full array gain with null steering,” IEEE
-Commun. Lett., vol. 27, no. 12, pp. 3340–3344, Dec. 2023.
-- [66] W. Ma, L. Zhu, and R. Zhang, “Multi-beam forming with movable-
-antenna array,” IEEE Commun. Lett., vol. 28, no. 3, pp. 697–701, Mar.
-2024.
-- [67] J. Zheng et al., “Flexible-position MIMO for wireless communications:
-Fundamentals, challenges, and future directions,” IEEE Wireless Com-
-mun., vol. 31, no. 5, pp. 18–26, Oct. 2024.
-- [68] Z. Ding et al., “A survey on non-orthogonal multiple access for 5G
-networks: Research challenges and future trends,” IEEE J. Select. Areas
-Commun., vol. 35, no. 10, pp. 2181–2195, Oct. 2017.
-- [69] Y. Liu et al., “Nonorthogonal multiple access for 5G and beyond,”
-Proc. IEEE, vol. 105, no. 12, pp. 2347–2381, Dec. 2017.
-- [70] B. Clerckx et al., “A primer on rate-splitting multiple access: Tutorial,
-myths, and frequently asked questions,” IEEE J. Select. Areas Com-
-mun., vol. 41, no. 5, pp. 1265–1308, May 2023.
-- [71] Y. Mao, B. Clerckx, and V. O. Li, “Rate-splitting multiple access
-for downlink communication systems: Bridging, generalizing, and
-outperforming SDMA and NOMA,” EURASIP J. Wireless Commun.
-Netw., vol. 2018, pp. 1–54, May 2018.
-- [72] W. K. New et al., “Fluid antenna system enhancing orthogonal and
-non-orthogonal multiple access,” IEEE Commun. Lett., vol. 28, no. 1,
-pp. 218–222, Jan. 2024.
-- [73] K.-K. Wong and K.-F. Tong, “Fluid antenna multiple access,” IEEE
-Trans. Wireless Commun., vol. 21, no. 7, pp. 4801–4815, Jul. 2022.
-
-46
-- [74] K.-K. Wong, D. Morales-Jimenez, K.-F. Tong, and C.-B. Chae, “Slow
-ﬂuid antenna multiple access,” IEEE Trans. Commun., vol. 71, no. 5,
-pp. 2831–2846, May 2023.
-- [75] K.-K. Wong, K.-F. Tong, Y. Chen, Y. Zhang, and C.-B. Chae, “Oppor-
-tunistic ﬂuid antenna multiple access,” IEEE Trans. Wireless Commun.,
-vol. 22, no 11, pp. 7819–7833, Nov. 2023.
-- [76] N. Waqar et al., “Opportunistic ﬂuid antenna multiple access via team-
-inspired reinforcement learning,” IEEE Trans. Wireless Commun., vol.
-23, no. 9, pp. 12068–12083, Sept. 2024.
-- [77] K.-K. Wong, C.-B. Chae, and K.-F. Tong, “Compact ultra massive
-antenna array: A simple open-loop massive connectivity scheme,” IEEE
-Trans. Wireless Commun., vol. 23, no. 6, pp. 6279–6294, Jun. 2024.
-- [78] X. You et al., “Toward 6G TKµ extreme connectivity: Architecture,
-key technologies and experiments,” IEEE Wireless Commun., vol. 30,
-no. 3, pp. 86–95, Jun. 2023.
-- [79] L. Zhu, W. Ma, and R. Zhang, “Movable antennas for wireless
-communication: Opportunities and challenges,” IEEE Commun. Mag.,
-vol. 62, no. 6, pp. 114–120, Jun. 2024.
-- [80] L. Zhu, W. Ma, and R. Zhang, “Modeling and performance analysis
-for movable antenna enabled wireless communications,” IEEE Trans.
-Wireless Commun., vol. 23, no. 6, pp. 6234–6250, Jun. 2024.
-- [81] C. Borda-Fortuny, K.-F. Tong, A. Al-Armaghany, and K.-K. Wong,
-“A low-cost ﬂuid switch for frequency-reconﬁgurable Vivaldi antenna,”
-IEEE Antennas & Wireless Propag. Lett., vol. 16, pp. 3151–3154, Nov.
-2017.
-- [82] C. Borda-Fortuny, L. Cai, K. F. Tong, and K.-K. Wong, “Low-cost 3D-
-printed coupling-fed frequency agile ﬂuidic monopole antenna system,”
-IEEE Access, vol. 7, pp. 95058–95064, 2019.
-- [83] A. Shojaeifard et al., “MIMO evolution beyond 5G through recon-
-ﬁgurable intelligent surfaces and ﬂuid antenna systems,” Proc. IEEE,
-vol. 110, no. 9, pp. 1244–1265, Sept. 2022.
-- [84] K.-K. Wong, W. K. New, X. Hao, K.-F. Tong, and C.-B. Chae, “Fluid
-antenna system–part I: Preliminaries,” IEEE Commun. Lett., vol. 27,
-no. 8, pp. 1919–1923, Aug. 2023.
-- [85] K.-K. Wong, K.-F. Tong, and C.-B. Chae, “Fluid antenna system–
-part II: Research opportunities,” IEEE Commun. Lett., vol. 27, no. 8,
-pp. 1924–1928, Aug. 2023.
-- [86] K.-K. Wong, K.-F. Tong, and C.-B. Chae, “Fluid antenna system–part
-III: A new paradigm of distributed artiﬁcial scattering surfaces for
-massive connectivity,” IEEE Commun. Lett., vol. 27, no. 8, pp. 1929–
+- [51] K. K. Wong, A. Shojaeifard, K.-F. Tong, and Y. Zhang, “Performance limits of ﬂuid antenna systems,” IEEE Commun. Lett., vol. 24, no. 11, pp. 2469–2472, Nov. 2020.
+- [52] K.-K. Wong, A. Shojaeifard, K.-F. Tong, and Y. Zhang, “Fluid antenna systems,” IEEE Trans. Wireless Commun., vol. 20, no. 3, pp. 1950–1962, Mar. 2021.
+- [53] S. Lee, Be Water, My Friend: The Teachings of Bruce Lee. Flatiron Books, 2020.
+- [54] L. Zhu and K. K. Wong, “Historical review of ﬂuid antenna and movable antenna,” arXiv preprint, arXiv:2401.02362v2, 2024.
+- [55] A. J. Paulraj and T. Kailath, “Increasing capacity in wireless broadcast systems using distributed transmission/directional reception (DTDR),” Sept. 6 1994. US Patent 5,345,599.
+- [56] G. J. Foschini and M. J. Gans, “On limits of wireless communications in a fading environment when using multiple antennas,” Wireless Pers. Commun., vol. 6, no. 3, pp. 311–335, Mar. 1998.
+- [57] A. Adjoudani et al., “Prototype experience for MIMO BLAST over third-generation wireless system,” IEEE J. Select. Areas Commun., vol. 21, no. 3, pp. 440–451, Apr. 2003.
+- [58] K.-K. Wong, R. D. Murch, R.-K. Cheng, and K. B. Letaief, “Optimiz-ing the spectral efﬁciency of multiuser MIMO smart antenna systems,” in Proc. IEEE Wireless Commun. Netw. Conf., vol. 1, pp. 426–430, 23-28 Sept. 2000, Chicago, IL, USA.
+- [59] K.-K. Wong, R. D. Murch and K. B. Letaief, “Performance enhance-ment of multiuser MIMO wireless communication systems,” IEEE Trans. Commun., vol. 50, no. 12, pp. 1960–1970, Dec. 2002.
+- [60] S. Vishwanath, N. Jindal and A. Goldsmith, “Duality, achievable rates, and sum-rate capacity of Gaussian MIMO broadcast channels,” IEEE Trans. Inf. Theory, vol. 49, no. 10, pp. 2658–2668, Oct. 2003.
+- [61] Q. H. Spencer, A. L. Swindlehurst and M. Haardt, “Zero-forcing meth-ods for downlink spatial multiplexing in multiuser MIMO channels,” IEEE Trans. Sig. Process., vol. 52, no. 2, pp. 461–471, Feb. 2004.
+- [62] T. L. Marzetta, “Noncooperative cellular wireless with unlimited num-bers of base station antennas,” IEEE Trans. Wireless Commun., vol. 9, no. 11, pp. 3590–3600, Nov. 2010.
+- [63] E. G. Larsson, O. Edfors, F. Tufvesson and T. L. Marzetta, “Massive MIMO for next generation wireless systems,” IEEE Commun. Mag., vol. 52, no. 2, pp. 186–195, Feb. 2014.
+- [64] Z. Wang et al., “A tutorial on extremely large-scale MIMO for 6G: Fundamentals, signal processing, and applications,” IEEE Commun. Surv. & Tut., vol. 26, no. 3, pp. 1560–1605, thirdquarter 2024.
+- [65] L. Zhu, W. Ma, and R. Zhang, “Movable-antenna array enhanced beamforming: Achieving full array gain with null steering,” IEEE Commun. Lett., vol. 27, no. 12, pp. 3340–3344, Dec. 2023.
+- [66] W. Ma, L. Zhu, and R. Zhang, “Multi-beam forming with movable-antenna array,” IEEE Commun. Lett., vol. 28, no. 3, pp. 697–701, Mar.2024.
+- [67] J. Zheng et al., “Flexible-position MIMO for wireless communications: Fundamentals, challenges, and future directions,” IEEE Wireless Com- mun., vol. 31, no. 5, pp. 18–26, Oct. 2024.
+- [68] Z. Ding et al., “A survey on non-orthogonal multiple access for 5G networks: Research challenges and future trends,” IEEE J. Select. Areas Commun., vol. 35, no. 10, pp. 2181–2195, Oct. 2017.
+- [69] Y. Liu et al., “Nonorthogonal multiple access for 5G and beyond,” Proc. IEEE, vol. 105, no. 12, pp. 2347–2381, Dec. 2017. 
+- [70] B. Clerckx et al., “A primer on rate-splitting multiple access: Tutorial, myths, and frequently asked questions,” IEEE J. Select. Areas Com-mun., vol. 41, no. 5, pp. 1265–1308, May 2023.
+- [71] Y. Mao, B. Clerckx, and V. O. Li, “Rate-splitting multiple access for downlink communication systems: Bridging, generalizing, and outperforming SDMA and NOMA,” EURASIP J. Wireless Commun. Netw., vol. 2018, pp. 1–54, May 2018.
+- [72] W. K. New et al., “Fluid antenna system enhancing orthogonal and non-orthogonal multiple access,” IEEE Commun. Lett., vol. 28, no. 1, pp. 218–222, Jan. 2024.
+- [73] K.-K. Wong and K.-F. Tong, “Fluid antenna multiple access,” IEEE Trans. Wireless Commun., vol. 21, no. 7, pp. 4801–4815, Jul. 2022.
+- [74] K.-K. Wong, D. Morales-Jimenez, K.-F. Tong, and C.-B. Chae, “Slow ﬂuid antenna multiple access,” IEEE Trans. Commun., vol. 71, no. 5, pp. 2831–2846, May 2023.
+- [75] K.-K. Wong, K.-F. Tong, Y. Chen, Y. Zhang, and C.-B. Chae, “Oppor-tunistic ﬂuid antenna multiple access,” IEEE Trans. Wireless Commun., vol. 22, no 11, pp. 7819–7833, Nov. 2023.
+- [76] N. Waqar et al., “Opportunistic ﬂuid antenna multiple access via team-inspired reinforcement learning,” IEEE Trans. Wireless Commun., vol. 23, no. 9, pp. 12068–12083, Sept. 2024.
+- [77] K.-K. Wong, C.-B. Chae, and K.-F. Tong, “Compact ultra massive antenna array: A simple open-loop massive connectivity scheme,” IEEE Trans. Wireless Commun., vol. 23, no. 6, pp. 6279–6294, Jun. 2024.
+- [78] X. You et al., “Toward 6G TKµ extreme connectivity: Architecture, key technologies and experiments,” IEEE Wireless Commun., vol. 30, no. 3, pp. 86–95, Jun. 2023.
+- [79] L. Zhu, W. Ma, and R. Zhang, “Movable antennas for wireless communication: Opportunities and challenges,” IEEE Commun. Mag., vol. 62, no. 6, pp. 114–120, Jun. 2024.
+- [80] L. Zhu, W. Ma, and R. Zhang, “Modeling and performance analysis for movable antenna enabled wireless communications,” IEEE Trans. Wireless Commun., vol. 23, no. 6, pp. 6234–6250, Jun. 2024.
+- [81] C. Borda-Fortuny, K.-F. Tong, A. Al-Armaghany, and K.-K. Wong, “A low-cost ﬂuid switch for frequency-reconﬁgurable Vivaldi antenna,” IEEE Antennas & Wireless Propag. Lett., vol. 16, pp. 3151–3154, Nov. 2017.
+- [82] C. Borda-Fortuny, L. Cai, K. F. Tong, and K.-K. Wong, “Low-cost 3D-printed coupling-fed frequency agile ﬂuidic monopole antenna system,” IEEE Access, vol. 7, pp. 95058–95064, 2019. 
+- [83] A. Shojaeifard et al., “MIMO evolution beyond 5G through recon-ﬁgurable intelligent surfaces and ﬂuid antenna systems,” Proc. IEEE, vol. 110, no. 9, pp. 1244–1265, Sept. 2022.
+- [84] K.-K. Wong, W. K. New, X. Hao, K.-F. Tong, and C.-B. Chae, “Fluid antenna system–part I: Preliminaries,” IEEE Commun. Lett., vol. 27, no. 8, pp. 1919–1923, Aug. 2023.
+- [85] K.-K. Wong, K.-F. Tong, and C.-B. Chae, “Fluid antenna system–part II: Research opportunities,” IEEE Commun. Lett., vol. 27, no. 8, pp. 1924–1928, Aug. 2023.
+- [86] K.-K. Wong, K.-F. Tong, and C.-B. Chae, “Fluid antenna system–part III: A new paradigm of distributed artiﬁcial scattering surfaces for massive connectivity,” IEEE Commun. Lett., vol. 27, no. 8, pp. 1929–
 1933, Aug. 2023.
-- [87] N. C. Beaulieu and K. T. Hemachandra, “Novel simple representations
-for Gaussian class multivariate distributions with generalized correla-
-tion,” IEEE Trans. Inf. Theory, vol. 57, no. 12, pp. 8072–8083, Dec.
-2011.
-- [88] K. Wong, K. Tong, Y. Chen, and Y. Zhang, “Closed-form expressions
-for spatial correlation parameters for performance analysis of ﬂuid
-antenna systems,” Elect. Lett., vol. 58, no. 11, pp. 454–457, Apr. 2022.
-- [89] M. Khammassi, A. Kammoun, and M.-S. Alouini, “A new analytical
-approximation of the ﬂuid antenna system channel,” IEEE Trans.
-Wireless Commun., vol. 22, no. 12, pp. 8843–8858, Dec. 2023.
-- [90] P. Ramirez-Espinosa, D. Morales-Jimenez, and K.-K. Wong, “A new
-spatial block-correlation model for ﬂuid antenna systems,” IEEE Trans.
-Wireless Commun., vol. 23, no. 11, pp. 15829–15843, Nov. 2024.
-- [91] W. C. Jakes and D. C. Cox, Microwave mobile communications. Wiley-
-IEEE press, 1994.
-- [92] H. Xu, K.-K. Wong, W. K. New, and K.-F. Tong, “On outage probability
-for two-user ﬂuid antenna multiple access,” in Proc. IEEE Inter. Conf.
-Commun., pp. 2246–2251, 28 May-1 Jun. 2023, Rome, Italy.
-- [93] W. K. New, K.-K. Wong, H. Xu, K.-F. Tong, and C.-B. Chae, “Fluid
-antenna system: New insights on outage probability and diversity gain,”
-IEEE Trans. Wireless Commun., vol. 23, no. 1, pp. 128–140, Jan. 2024.
-- [94] W. K. New, K.-K. Wong, H. Xu, K.-F. Tong, and C.-B. Chae, “An
-information-theoretic characterization of MIMO-FAS: Optimization,
-diversity-multiplexing tradeoff and q-outage capacity,” IEEE Trans.
-Wireless Commun., vol. 23, no. 6, pp. 5541–5556, Jun. 2024.
-- [95] A. Ghaderipoor, C. Tellambura, and A. Paulraj, “On the application of
-character expansions for MIMO capacity analysis,” IEEE Trans. Inf.
-Theory, vol. 58, no. 5, pp. 2950–2962, May 2012.
-- [96] T. Aulin, “A modiﬁed model for the fading signal at a mobile radio
-channel,” IEEE Trans. Veh. Technol., vol. 28, no. 3, pp. 182–203, Aug.
-1979.
-- [97] M. R. Akdeniz et al., “Millimeter wave channel modeling and cellular
-capacity evaluation,” IEEE J. Select. Areas Commun., vol. 32, no. 6,
-pp. 1164–1179, Jun. 2014.
-- [98] L. Zhu, W. Ma, Z. Xiao, and R. Zhang, “Performance analysis and
-optimization for movable antenna aided wideband communications,”
-IEEE Trans. Wireless Commun., early access, doi:10.1109/TWC.2024.
-3471698, 2024.
-- [99] M. H. Gholizadeh, H. Amindavar, and J. A. Ritcey, “On the capacity
-of MIMO correlated Nakagami-m fading channels using copula,”
-EURASIP J. Wireless Commun. Netw., vol. 2015, no. 1, pp. 1–11, May
-2015.
-- [100] F. R. Ghadi and G. A. Hodtani, “Copula-based analysis of physical
-layer security performances over correlated Rayleigh fading channels,”
-IEEE Trans. Inf. Forensics Security, vol. 16, pp. 431–440, Aug. 2020.
-- [101] E. A. Jorswieck and K.-L. Besser, “Copula-based bounds for multi-user
-communications–part I: Average performance,” IEEE Commun. Lett.,
-vol. 25, no. 1, pp. 3–7, Jan. 2021.
-- [102] F. R. Ghadi, F. J. Martin-Vega, and F. J. López-Martínez, “Capacity of
-backscatter communication under arbitrary fading dependence,” IEEE
-Trans. Veh. Technol., vol. 71, no. 5, pp. 5593–5598, May 2022.
-- [103] F. R. Ghadi and W.-P. Zhu, “Performance analysis over corre-
-lated/independent Fisher-Snedecor F fading multiple access channels,”
-IEEE Trans. Veh. Technol., vol. 71, no. 7, pp. 7561–7571, Jul. 2022.
-- [104] F. R. Ghadi and F. J. López-Martínez, “Performance analysis of SWIPT
-relay networks over arbitrary dependent fading channels,” IEEE Trans.
-Commun., vol. 72, no. 6, pp. 3651–3663, Jun. 2024.
-- [105] F. R. Ghadi, K.-K. Wong, F. J. López-Martínez, and K.-F. Tong,
-“Copula-based performance analysis for ﬂuid antenna systems under
-arbitrary fading channels,” IEEE Commun. Lett., vol. 27, no. 11,
-pp. 3068–3072, Nov. 2023.
-- [106] F. R. Ghadi et al., “Fluid antenna-assisted dirty multiple access
-channels over composite fading,” IEEE Commun. Lett., vol. 28, no.
-2, pp. 382–386, Feb. 2024.
-- [107] Y. Hou et al., “A copula-based approach to performance analysis of
-ﬂuid antenna system with multiple ﬁxed transmit antennas,” IEEE
-Wireless Commun. Lett., vol. 13, no. 2, pp. 501–504, Feb. 2024.
-- [108] F. R. Ghadi et al., “A Gaussian copula approach to the performance
-analysis of ﬂuid antenna systems,” IEEE Trans. Wireless Commun.,
-vol. 23, no. 11, pp. 17573–17585, Nov. 2024.
-- [109] F. R. Ghadi, K.-K. Wong, F. J. López-Martínez, H. Shin, and L. Hanzo,
-“Performance Analysis of FAS-Aided NOMA-ISAC: A Backscattering
-Scenario,” arXiv preprint, arXiv:2408.04724, Aug. 2024.
-- [110] F. R. Ghadi, M. Kaveh, K.-K. Wong and Y. Zhang, “Performance
-analysis of FAS-aided backscatter communications,” IEEE Wireless
-Commun. Lett., vol. 13, no. 9, pp. 2412–2416, Sept. 2024.
-- [111] F. R. Ghadi, K.-K. Wong, K.-F. Tong and Y. Zhang, “Cache-enabled
-ﬂuid antenna systems: Modeling and performance,” IEEE Commun.
-Lett., vol. 28, no. 8, pp. 1934–1938, Aug. 2024.
+- [87] N. C. Beaulieu and K. T. Hemachandra, “Novel simple representations for Gaussian class multivariate distributions with generalized correla-tion,” IEEE Trans. Inf. Theory, vol. 57, no. 12, pp. 8072–8083, Dec. 2011.
+- [88] K. Wong, K. Tong, Y. Chen, and Y. Zhang, “Closed-form expressions for spatial correlation parameters for performance analysis of ﬂuid antenna systems,” Elect. Lett., vol. 58, no. 11, pp. 454–457, Apr. 2022.
+- [89] M. Khammassi, A. Kammoun, and M.-S. Alouini, “A new analytical approximation of the ﬂuid antenna system channel,” IEEE Trans. Wireless Commun., vol. 22, no. 12, pp. 8843–8858, Dec. 2023.
+- [90] P. Ramirez-Espinosa, D. Morales-Jimenez, and K.-K. Wong, “A new spatial block-correlation model for ﬂuid antenna systems,” IEEE Trans. Wireless Commun., vol. 23, no. 11, pp. 15829–15843, Nov. 2024.
+- [91] W. C. Jakes and D. C. Cox, Microwave mobile communications. Wiley-IEEE press, 1994.
+- [92] H. Xu, K.-K. Wong, W. K. New, and K.-F. Tong, “On outage probability for two-user ﬂuid antenna multiple access,” in Proc. IEEE Inter. Conf.Commun., pp. 2246–2251, 28 May-1 Jun. 2023, Rome, Italy.
+- [93] W. K. New, K.-K. Wong, H. Xu, K.-F. Tong, and C.-B. Chae, “Fluid antenna system: New insights on outage probability and diversity gain,” IEEE Trans. Wireless Commun., vol. 23, no. 1, pp. 128–140, Jan. 2024.
+- [94] W. K. New, K.-K. Wong, H. Xu, K.-F. Tong, and C.-B. Chae, “An information-theoretic characterization of MIMO-FAS: Optimization, diversity-multiplexing tradeoff and q-outage capacity,” IEEE Trans. Wireless Commun., vol. 23, no. 6, pp. 5541–5556, Jun. 2024.
+- [95] A. Ghaderipoor, C. Tellambura, and A. Paulraj, “On the application of character expansions for MIMO capacity analysis,” IEEE Trans. Inf. Theory, vol. 58, no. 5, pp. 2950–2962, May 2012.
+- [96] T. Aulin, “A modiﬁed model for the fading signal at a mobile radio channel,” IEEE Trans. Veh. Technol., vol. 28, no. 3, pp. 182–203, Aug. 1979.
+- [97] M. R. Akdeniz et al., “Millimeter wave channel modeling and cellular capacity evaluation,” IEEE J. Select. Areas Commun., vol. 32, no. 6, pp. 1164–1179, Jun. 2014.
+- [98] L. Zhu, W. Ma, Z. Xiao, and R. Zhang, “Performance analysis and optimization for movable antenna aided wideband communications,” IEEE Trans. Wireless Commun., early access, doi:10.1109/TWC.2024. 3471698, 2024.
+- [99] M. H. Gholizadeh, H. Amindavar, and J. A. Ritcey, “On the capacity of MIMO correlated Nakagami-m fading channels using copula,” EURASIP J. Wireless Commun. Netw., vol. 2015, no. 1, pp. 1–11, May 2015.
+- [100] F. R. Ghadi and G. A. Hodtani, “Copula-based analysis of physical layer security performances over correlated Rayleigh fading channels,” IEEE Trans. Inf. Forensics Security, vol. 16, pp. 431–440, Aug. 2020.
+- [101] E. A. Jorswieck and K.-L. Besser, “Copula-based bounds for multi-user communications–part I: Average performance,” IEEE Commun. Lett., vol. 25, no. 1, pp. 3–7, Jan. 2021.
+- [102] F. R. Ghadi, F. J. Martin-Vega, and F. J. López-Martínez, “Capacity of backscatter communication under arbitrary fading dependence,” IEEE Trans. Veh. Technol., vol. 71, no. 5, pp. 5593–5598, May 2022.
+- [103] F. R. Ghadi and W.-P. Zhu, “Performance analysis over corre-lated/independent Fisher-Snedecor F fading multiple access channels,” IEEE Trans. Veh. Technol., vol. 71, no. 7, pp. 7561–7571, Jul. 2022.
+- [104] F. R. Ghadi and F. J. López-Martínez, “Performance analysis of SWIPT relay networks over arbitrary dependent fading channels,” IEEE Trans. Commun., vol. 72, no. 6, pp. 3651–3663, Jun. 2024.
+- [105] F. R. Ghadi, K.-K. Wong, F. J. López-Martínez, and K.-F. Tong, “Copula-based performance analysis for ﬂuid antenna systems under arbitrary fading channels,” IEEE Commun. Lett., vol. 27, no. 11, pp. 3068–3072, Nov. 2023.
+- [106] F. R. Ghadi et al., “Fluid antenna-assisted dirty multiple access channels over composite fading,” IEEE Commun. Lett., vol. 28, no. 2, pp. 382–386, Feb. 2024.
+- [107] Y. Hou et al., “A copula-based approach to performance analysis of ﬂuid antenna system with multiple ﬁxed transmit antennas,” IEEE Wireless Commun. Lett., vol. 13, no. 2, pp. 501–504, Feb. 2024.
+- [108] F. R. Ghadi et al., “A Gaussian copula approach to the performance analysis of ﬂuid antenna systems,” IEEE Trans. Wireless Commun., vol. 23, no. 11, pp. 17573–17585, Nov. 2024.
+- [109] F. R. Ghadi, K.-K. Wong, F. J. López-Martínez, H. Shin, and L. Hanzo, “Performance Analysis of FAS-Aided NOMA-ISAC: A Backscattering Scenario,” arXiv preprint, arXiv:2408.04724, Aug. 2024.
+- [110] F. R. Ghadi, M. Kaveh, K.-K. Wong and Y. Zhang, “Performance analysis of FAS-aided backscatter communications,” IEEE Wireless Commun. Lett., vol. 13, no. 9, pp. 2412–2416, Sept. 2024.
+- [111] F. R. Ghadi, K.-K. Wong, K.-F. Tong and Y. Zhang, “Cache-enabled ﬂuid antenna systems: Modeling and performance,” IEEE Commun. Lett., vol. 28, no. 8, pp. 1934–1938, Aug. 2024.
 - [112] R. B. Nelsen, An introduction to copulas. Springer, 2006.
-- [113] J. Wallace and M. Jensen, “Mutual coupling in MIMO wireless
-systems: A rigorous network theory analysis,” IEEE Trans. Wireless
-Commun., vol. 3, no. 4, pp. 1317–1325, Jul. 2004.
-- [114] C. T. Neil et al., “On the performance of spatially correlated large
-antenna arrays for millimeter-wave frequencies,” IEEE Trans. Antennas
-& Propag., vol. 66, no. 1, pp. 132–148, Jan. 2018.
-- [115] C. A. Balanis, Antenna theory: Analysis and design. John wiley &
-sons, 2016.
-- [116] S. Pratschner, S. Caban, S. Schwarz, and M. Rupp, “A mutual coupling
-model for massive MIMO applied to the 3GPP 3D channel model,”
-in Proc. European Sig. Process. Conf., pp. 623–627, 28 Aug.-2 Sept.
-2017, Kos, Greece.
-- [117] C. Psomas, P. J. Smith, H. A. Suraweera, and I. Krikidis, “Continuous
-ﬂuid antenna systems: Modeling and analysis,” IEEE Commun. Lett.,
-vol. 27, no. 12, pp. 3370–3374, Dec. 2023.
-- [118] W. Ma, L. Zhu, and R. Zhang, “MIMO capacity characterization for
-movable antenna systems,” IEEE Trans. Wireless Commun., vol. 23,
-no. 4, pp. 3392–3407, Apr. 2024.
-- [119] C. Psomas, G. M. Kraidy, K.-K. Wong, and I. Krikidis, “On the
-diversity and coded modulation design of ﬂuid antenna systems,” IEEE
-Trans. Wireless Commun., vol. 23, no. 3, pp. 2082–2096, Mar. 2024.
-- [120] X. Shao, Q. Jiang, and R. Zhang, “6d movable antenna based on user
-distribution: Modeling and optimization,” arXiv preprint, arXiv:2403.
-08123v3, Mar. 2024.
-- [121] X. Shao, R. Zhang, Q. Jiang, and R. Schober, “6d movable antenna
-enhanced wireless network via discrete position and rotation optimiza-
-tion,” arXiv preprint, arXiv:2403.17122, Mar. 2024.
-- [122] S. Zhang et al., “Fast port selection using temporal and spatial
-correlation for ﬂuid antenna systems,” in Proc. IEEE Statistical Sig.
-Process. Workshop, pp. 95–99, 2-5 Jul. 2023, Hanoi, Vietnam.
+- [113] J. Wallace and M. Jensen, “Mutual coupling in MIMO wireless systems: A rigorous network theory analysis,” IEEE Trans. Wireless Commun., vol. 3, no. 4, pp. 1317–1325, Jul. 2004.
+- [114] C. T. Neil et al., “On the performance of spatially correlated large antenna arrays for millimeter-wave frequencies,” IEEE Trans. Antennas & Propag., vol. 66, no. 1, pp. 132–148, Jan. 2018.
+- [115] C. A. Balanis, Antenna theory: Analysis and design. John wiley & sons, 2016.
+- [116] S. Pratschner, S. Caban, S. Schwarz, and M. Rupp, “A mutual coupling model for massive MIMO applied to the 3GPP 3D channel model,” in Proc. European Sig. Process. Conf., pp. 623–627, 28 Aug.-2 Sept. 2017, Kos, Greece.
+- [117] C. Psomas, P. J. Smith, H. A. Suraweera, and I. Krikidis, “Continuous ﬂuid antenna systems: Modeling and analysis,” IEEE Commun. Lett., vol. 27, no. 12, pp. 3370–3374, Dec. 2023.
+- [118] W. Ma, L. Zhu, and R. Zhang, “MIMO capacity characterization for movable antenna systems,” IEEE Trans. Wireless Commun., vol. 23, no. 4, pp. 3392–3407, Apr. 2024.
+- [119] C. Psomas, G. M. Kraidy, K.-K. Wong, and I. Krikidis, “On the diversity and coded modulation design of ﬂuid antenna systems,” IEEE Trans. Wireless Commun., vol. 23, no. 3, pp. 2082–2096, Mar. 2024.
+- [120] X. Shao, Q. Jiang, and R. Zhang, “6d movable antenna based on user distribution: Modeling and optimization,” arXiv preprint, arXiv:2403.08123v3, Mar. 2024.
+- [121] X. Shao, R. Zhang, Q. Jiang, and R. Schober, “6d movable antenna enhanced wireless network via discrete position and rotation optimiza-tion,” arXiv preprint, arXiv:2403.17122, Mar. 2024.
+- [122] S. Zhang et al., “Fast port selection using temporal and spatial correlation for ﬂuid antenna systems,” in Proc. IEEE Statistical Sig.Process. Workshop, pp. 95–99, 2-5 Jul. 2023, Hanoi, Vietnam.
 
 47
-- [123] H. Xu et al., “Capacity maximization for FAS-assisted multiple access
-channels,” arXiv preprint, arXiv:2311.11037, Nov. 2023.
-- [124] C. Wang et al., “Fluid antenna system liberating multiuser MIMO
-for ISAC via deep reinforcement learning,” IEEE Trans. Wireless
-Commun., vol. 23, no. 9, pp. 10879–10894, Sept. 2024.
-- [125] W. K. New, K.-K. Wong, H. Xu, K.-F. Tong, and C.-B. Chae,
-“Achievability of ﬂuid antenna multiple access: A Han-Kobayashi’s
-comparison,” in Proc. IEEE Global Conf. Commun. Workshop Next
-Generation Multiple Access, 4-8 Dec. 2023, Kuala Lumpur, Malaysia.
-- [126] C. Skouroumounis and I. Krikidis, “Fluid antenna with linear MMSE
-channel estimation for large-scale cellular networks,” IEEE Trans.
-Commun., vol. 71, no. 2, pp. 1112–1125, Feb. 2023.
-- [127] C. Skouroumounis and I. Krikidis, “Large-scale ﬂuid antenna systems
-with linear MMSE channel estimation,” in Proc. IEEE Inter. Conf.
-Commun., pp. 1330–1335, 16-20 May 2022, Seoul, Korea.
-- [128] C. Skouroumounis and I. Krikidis, “Fluid antenna-aided full duplex
-communications: A macroscopic point-of-view,” IEEE J. Select. Areas
-Commun., vol. 41, no. 9, pp. 2879–2892, Sept. 2023.
-- [129] M. Alrabeiah and A. Alkhateeb, “Deep learning for TDD and FDD
-massive MIMO: Mapping channels in space and frequency,” in Proc.
-Asilomar Conf. Sig., Syst. & Comp., pp. 1465–1470, 3-6 Nov. 2019,
-Paciﬁc Grove, CA, USA.
-- [130] Y. Zhang et al., “CV-3DCNN: Complex-valued deep learning for CSI
-prediction in FDD massive MIMO systems,” IEEE Wireless Commun.
-Lett., vol. 10, no. 2, pp. 266–270, Feb. 2021.
-- [131] D. Hendrycks and K. Gimpel, “Gaussian error linear units (GELUs),”
-arXiv preprint, arXiv:1606.08415v5, Jun. 2023.
-- [132] X. Glorot, A. Bordes, and Y. Bengio, “Deep sparse rectiﬁer neural
-networks,” in Proc. Inter. Conf. Artiﬁcial Intelligence & Statistics,
-vol. 15 of Proc. Machine Learning Research, pp. 315–323, PMLR,
-11–13 Apr. 2011.
-- [133] Z. Wang et al., “DynaMixer: A vision MLP architecture with dynamic
-mixing,” in Proc. Inter. Conf. Machine Learning, vol. 162 of Proc.
-Machine Learning Research, pp. 22691–22701, PMLR, 17–23 Jul.
-2022.
-- [134] J. Lee-Thorp, J. Ainslie, I. Eckstein, and S. Ontañón, “FNet: Mixing
-tokens with fourier transforms,” CoRR, vol. abs/2105.03824, 2021.
-[Online]. Available on: https://arxiv.org/abs/2105.03824.
-- [135] K. He, X. Zhang, S. Ren, and J. Sun, “Deep residual learning for image
-recognition,” in Proc. IEEE Conf. Comp. Vision & Pattern Recognition,
-pp. 770–778, 2016.
-- [136] Z. Liu et al., “Swin transformer: Hierarchical vision transformer using
-shifted windows,” in Proc. IEEE/CVF Inter. Conf. Comp. Vision,
-pp. 10012–10022, Oct. 2021.
-- [137] L. Rampášek et al., “Recipe for a general, powerful, scalable
-graph transformer,” in Advances Neural Inf. Process. Syst., vol. 35,
-pp. 14501–14515, Curran Associates, Inc., 2022.
-- [138] J. L. Ba, J. R. Kiros, and G. E. Hinton, “Layer normalization,” arXiv
-preprint, arXiv:1607.06450, Jul. 2016.
-- [139] S. Ioffe and C. Szegedy, “Batch normalization: Accelerating deep
-network training by reducing internal covariate shift,” in Proc. Inter.
-Conf. Machine Learning, vol. 37 of Proc. Machine Learning Research,
-pp. 448–456, PMLR, 07–09 Jul. 2015.
-- [140] D. Ulyanov, A. Vedaldi, and V. Lempitsky, “Instance normalization:
-The missing ingredient for fast stylization,” arXiv preprint, arXiv:1607.
-08022v3, Nov. 2017.
-- [141] M. Belgiovine, K. Sankhe, C. Bocanegra, D. Roy, and K. R. Chowd-
-hury, “Deep learning at the edge for channel estimation in beyond-5G
-massive MIMO,” IEEE Wireless Commun., vol. 28, no. 2, pp. 19–25,
-Apr. 2021.
-- [142] H. Huang, J. Yang, H. Huang, Y. Song, and G. Gui, “Deep learning for
-super-resolution channel estimation and DOA estimation based massive
-MIMO system,” IEEE Trans. Veh. Technol., vol. 67, no. 9, pp. 8549–
-8560, Sept. 2018.
-- [143] C.-J. Chun, J.-M. Kang, and I.-M. Kim, “Deep learning-based channel
-estimation for massive MIMO systems,” IEEE Wireless Commun. Lett.,
-vol. 8, no. 4, pp. 1228–1231, Aug. 2019.
-- [144] E. Balevi, A. Doshi, and J. G. Andrews, “Massive MIMO channel
-estimation with an untrained deep neural network,” IEEE Trans.
-Wireless Commun., vol. 19, no. 3, pp. 2079–2090, Mar. 2020.
-- [145] H. Ye, G. Y. Li, and B.-H. Juang, “Power of deep learning for channel
-estimation and signal detection in OFDM systems,” IEEE Wireless
-Commun. Lett., vol. 7, no. 1, pp. 114–117, Feb. 2018.
-- [146] J. Gao, M. Hu, C. Zhong, G. Y. Li, and Z. Zhang, “An attention-aided
-deep learning framework for massive MIMO channel estimation,” IEEE
-Trans. Wireless Commun., vol. 21, no. 3, pp. 1823–1835, Mar. 2022.
-- [147] H. He, C.-K. Wen, S. Jin, and G. Y. Li, “Deep learning-based channel
-estimation for beamspace mmwave massive MIMO systems,” IEEE
-Wireless Commun. Lett., vol. 7, no. 5, pp. 852–855, Oct. 2018.
-- [148] Z. Chai, K.-K. Wong, K.-F. Tong, Y. Chen, and Y. Zhang, “Port
-selection for ﬂuid antenna systems,” IEEE Commun. Lett., vol. 26,
-no. 5, pp. 1180–1184, May 2022.
-- [149] A. Vaswani et al., “Attention is all you need,” in Advances Neural
-Inf. Process. Syst. (I. Guyon, U. V. Luxburg, S. Bengio, H. Wallach,
-R. Fergus, S. Vishwanathan, and R. Garnett, eds.), vol. 30, Curran
-Associates, Inc., 2017.
-- [150] H. Xu et al., “Channel estimation for FAS-assisted multiuser mmWave
-systems,” IEEE Commun. Lett., vol. 23, no. 3, pp. 632–636, Mar. 2024.
-- [151] R. Wang, Y. Chen, Y. Hou, K.-K. Wong, and X. Tao, “Estimation of
-channel parameters for port selection in millimeter-wave ﬂuid antenna
-systems,” in Proc. IEEE/CIC Inter. Conf. Commun. China, 10-12 Aug.
-2023, Dalian, China.
-- [152] W. Ma, L. Zhu, and R. Zhang, “Compressed sensing based channel
-estimation for movable antenna communications,” IEEE Commun.
-Lett., vol. 27, no. 10, pp. 2747–2751, Oct. 2023.
-- [153] Z. Xiao et al., “Channel estimation for movable antenna communica-
-tion systems: A framework based on compressed sensing,” IEEE Trans.
-Wireless Commun., vol. 23, no. 9, pp. 11814–11830, Sept. 2024.
-- [154] Z. Zhang, J. Zhu, L. Dai, and R. W. Heath Jr, “Successive Bayesian
-reconstructor for channel estimation in ﬂuid antenna systems,” arXiv
-preprint, arXiv:2312.06551v3, Jan. 2024.
-- [155] D. Fan et al., “Angle domain channel estimation in hybrid millime-
-ter wave massive MIMO systems,” IEEE Trans. Wireless Commun.,
-vol. 17, no. 12, pp. 8165–8179, Dec. 2018.
-- [156] J. Lee, G.-T. Gil, and Y. H. Lee, “Channel estimation via orthogonal
-matching pursuit for hybrid MIMO systems in millimeter wave com-
-munications,” IEEE Trans. Commun., vol. 64, no. 6, pp. 2370–2386,
-Jun. 2016.
-- [157] Z. Guo, X. Wang, and W. Heng, “Millimeter-wave channel estimation
-based on 2-D beamspace MUSIC method,” IEEE Trans. Wireless
-Commun., vol. 16, no. 8, pp. 5384–5394, Aug. 2017.
-- [158] R. Roy, and T. Kailath, “ESPRIT-estimation of signal parameters via
-rotational invariance techniques,” IEEE Trans. Acoustics, Speech, &
-Sig. Proc., vol. 37, no. 7, pp. 984–995, Jul. 1989.
-- [159] M. Haardt, and J. A. Nossek, “Unitary ESPRIT: How to obtain
-increased estimation accuracy with a reduced computational burden,”
-IEEE Trans. Sig. Proc., vol. 43, no. 5, pp. 1232–1242, May 1995.
-- [160] B. H. Fleury, D. Dahlhaus, R. Heddergott, and M. Tschudin, “Wideband
-angle of arrival estimation using the SAGE algorithm,” in Proc. Int.
-Symp. Spread Spectrum Tech. & Appl., vol. 1, pp. 79–85, 25 Sept.
-1996, Mainz, Germany.
-- [161] M. Gu and S. C. Eisenstat, “Efﬁcient algorithms for computing a
-strong rank-revealing QR factorization,” SIAM J. Scientiﬁc Computing,
-vol. 17, no. 4, pp. 848–869, 1996.
-- [162] A. Goldsmith, S. Jafar, N. Jindal, and S. Vishwanath, “Capacity limits
-of MIMO channels,” IEEE J. Select. Areas Commun., vol. 21, no. 5,
-pp. 684–702, Jun. 2003.
-- [163] Z. Cheng et al., “Sum-rate maximization for movable antenna enabled
-multiuser communications,” arXiv preprint, arXiv:2309.11135v2, Sept.
-2023.
-- [164] X. Pi, L. Zhu, Z. Xiao, and R. Zhang, “Multiuser communications with
-movable-antenna base station via antenna position optimization,” arXiv
-preprint, arXiv:2308.05546, Aug. 2023.
-- [165] Z. Xiao, X. Pi, L. Zhu, X.-G. Xia, and R. Zhang, “Multiuser communi-
-cations with movable-antenna base station: Joint antenna positioning,
-receive combining, and power control,” IEEE Trans. Wireless Com-
-mun., early access, doi:10.1109/TWC.2024.3486320, 2024.
-- [166] L. Zhu, W. Ma, B. Ning, and R. Zhang, “Movable-antenna enhanced
-multiuser communication via antenna position optimization,” IEEE
-Trans. Wireless Commun., vol. 23, no. 7, pp. 7214–7229, Jul. 2024.
-- [167] H. Qin et al., “Antenna positioning and beamforming design for ﬂuid-
-antenna enabled multi-user downlink communications,” arXiv preprint,
-arXiv:2311.03046v2, Jan. 2024.
-- [168] Y. Wu, D. Xu, D. W. K. Ng, W. Gerstacker, and R. Schober, “Movable
-antenna-enhanced multiuser communication: Optimal discrete antenna
-positioning and beamforming,” arXiv preprint, arXiv:2308.02304, Aug.
-2023.
-- [169] Y. Ye et al., “Fluid antenna-assisted MIMO transmission exploiting
-statistical CSI,” IEEE Commun. Lett., vol. 28, no. 1, pp. 223–227, Jan.
-2024.
-- [170] X. Chen, B. Feng, Y. Wu, D. W. K. Ng, and R. Schober, “Joint beam-
-forming and antenna movement design for moveable antenna systems
+- [123] H. Xu et al., “Capacity maximization for FAS-assisted multiple access channels,” arXiv preprint, arXiv:2311.11037, Nov. 2023.
+- [124] C. Wang et al., “Fluid antenna system liberating multiuser MIMO for ISAC via deep reinforcement learning,” IEEE Trans. Wireless Commun., vol. 23, no. 9, pp. 10879–10894, Sept. 2024.
+- [125] W. K. New, K.-K. Wong, H. Xu, K.-F. Tong, and C.-B. Chae, “Achievability of ﬂuid antenna multiple access: A Han-Kobayashi’s comparison,” in Proc. IEEE Global Conf. Commun. Workshop Next Generation Multiple Access, 4-8 Dec. 2023, Kuala Lumpur, Malaysia.
+- [126] C. Skouroumounis and I. Krikidis, “Fluid antenna with linear MMSE channel estimation for large-scale cellular networks,” IEEE Trans. Commun., vol. 71, no. 2, pp. 1112–1125, Feb. 2023.
+- [127] C. Skouroumounis and I. Krikidis, “Large-scale ﬂuid antenna systems with linear MMSE channel estimation,” in Proc. IEEE Inter. Conf. Commun., pp. 1330–1335, 16-20 May 2022, Seoul, Korea.
+- [128] C. Skouroumounis and I. Krikidis, “Fluid antenna-aided full duplex communications: A macroscopic point-of-view,” IEEE J. Select. Areas Commun., vol. 41, no. 9, pp. 2879–2892, Sept. 2023.
+- [129] M. Alrabeiah and A. Alkhateeb, “Deep learning for TDD and FDD massive MIMO: Mapping channels in space and frequency,” in Proc.Asilomar Conf. Sig., Syst. & Comp., pp. 1465–1470, 3-6 Nov. 2019, Paciﬁc Grove, CA, USA.
+- [130] Y. Zhang et al., “CV-3DCNN: Complex-valued deep learning for CSI prediction in FDD massive MIMO systems,” IEEE Wireless Commun. Lett., vol. 10, no. 2, pp. 266–270, Feb. 2021.
+- [131] D. Hendrycks and K. Gimpel, “Gaussian error linear units (GELUs),” arXiv preprint, arXiv:1606.08415v5, Jun. 2023.
+- [132] X. Glorot, A. Bordes, and Y. Bengio, “Deep sparse rectiﬁer neural networks,” in Proc. Inter. Conf. Artiﬁcial Intelligence & Statistics, vol. 15 of Proc. Machine Learning Research, pp. 315–323, PMLR, 11–13 Apr. 2011.
+- [133] Z. Wang et al., “DynaMixer: A vision MLP architecture with dynamic mixing,” in Proc. Inter. Conf. Machine Learning, vol. 162 of Proc. Machine Learning Research, pp. 22691–22701, PMLR, 17–23 Jul. 2022.
+- [134] J. Lee-Thorp, J. Ainslie, I. Eckstein, and S. Ontañón, “FNet: Mixing tokens with fourier transforms,” CoRR, vol. abs/2105.03824, 2021. [Online]. Available on: https://arxiv.org/abs/2105.03824.
+- [135] K. He, X. Zhang, S. Ren, and J. Sun, “Deep residual learning for image recognition,” in Proc. IEEE Conf. Comp. Vision & Pattern Recognition, pp. 770–778, 2016.
+- [136] Z. Liu et al., “Swin transformer: Hierarchical vision transformer using shifted windows,” in Proc. IEEE/CVF Inter. Conf. Comp. Vision, pp. 10012–10022, Oct. 2021.
+- [137] L. Rampášek et al., “Recipe for a general, powerful, scalable graph transformer,” in Advances Neural Inf. Process. Syst., vol. 35, pp. 14501–14515, Curran Associates, Inc., 2022.
+- [138] J. L. Ba, J. R. Kiros, and G. E. Hinton, “Layer normalization,” arXiv preprint, arXiv:1607.06450, Jul. 2016.
+- [139] S. Ioffe and C. Szegedy, “Batch normalization: Accelerating deep network training by reducing internal covariate shift,” in Proc. Inter. Conf. Machine Learning, vol. 37 of Proc. Machine Learning Research, pp. 448–456, PMLR, 07–09 Jul. 2015.
+- [140] D. Ulyanov, A. Vedaldi, and V. Lempitsky, “Instance normalization: The missing ingredient for fast stylization,” arXiv preprint, arXiv:1607. 08022v3, Nov. 2017.
+- [141] M. Belgiovine, K. Sankhe, C. Bocanegra, D. Roy, and K. R. Chowd-hury, “Deep learning at the edge for channel estimation in beyond-5G massive MIMO,” IEEE Wireless Commun., vol. 28, no. 2, pp. 19–25, Apr. 2021.
+- [142] H. Huang, J. Yang, H. Huang, Y. Song, and G. Gui, “Deep learning for super-resolution channel estimation and DOA estimation based massive MIMO system,” IEEE Trans. Veh. Technol., vol. 67, no. 9, pp. 8549–8560, Sept. 2018.
+- [143] C.-J. Chun, J.-M. Kang, and I.-M. Kim, “Deep learning-based channel estimation for massive MIMO systems,” IEEE Wireless Commun. Lett., vol. 8, no. 4, pp. 1228–1231, Aug. 2019.
+- [144] E. Balevi, A. Doshi, and J. G. Andrews, “Massive MIMO channel estimation with an untrained deep neural network,” IEEE Trans.Wireless Commun., vol. 19, no. 3, pp. 2079–2090, Mar. 2020.
+- [145] H. Ye, G. Y. Li, and B.-H. Juang, “Power of deep learning for channel estimation and signal detection in OFDM systems,” IEEE Wireless Commun. Lett., vol. 7, no. 1, pp. 114–117, Feb. 2018.
+- [146] J. Gao, M. Hu, C. Zhong, G. Y. Li, and Z. Zhang, “An attention-aided deep learning framework for massive MIMO channel estimation,” IEEE Trans. Wireless Commun., vol. 21, no. 3, pp. 1823–1835, Mar. 2022.
+- [147] H. He, C.-K. Wen, S. Jin, and G. Y. Li, “Deep learning-based channel estimation for beamspace mmwave massive MIMO systems,” IEEE Wireless Commun. Lett., vol. 7, no. 5, pp. 852–855, Oct. 2018.
+- [148] Z. Chai, K.-K. Wong, K.-F. Tong, Y. Chen, and Y. Zhang, “Port selection for ﬂuid antenna systems,” IEEE Commun. Lett., vol. 26, no. 5, pp. 1180–1184, May 2022.
+- [149] A. Vaswani et al., “Attention is all you need,” in Advances Neural Inf. Process. Syst. (I. Guyon, U. V. Luxburg, S. Bengio, H. Wallach, R. Fergus, S. Vishwanathan, and R. Garnett, eds.), vol. 30, Curran Associates, Inc., 2017.
+- [150] H. Xu et al., “Channel estimation for FAS-assisted multiuser mmWave systems,” IEEE Commun. Lett., vol. 23, no. 3, pp. 632–636, Mar. 2024.
+- [151] R. Wang, Y. Chen, Y. Hou, K.-K. Wong, and X. Tao, “Estimation of channel parameters for port selection in millimeter-wave ﬂuid antenna systems,” in Proc. IEEE/CIC Inter. Conf. Commun. China, 10-12 Aug. 2023, Dalian, China.
+- [152] W. Ma, L. Zhu, and R. Zhang, “Compressed sensing based channel estimation for movable antenna communications,” IEEE Commun. Lett., vol. 27, no. 10, pp. 2747–2751, Oct. 2023.
+- [153] Z. Xiao et al., “Channel estimation for movable antenna communica- tion systems: A framework based on compressed sensing,” IEEE Trans.Wireless Commun., vol. 23, no. 9, pp. 11814–11830, Sept. 2024.
+- [154] Z. Zhang, J. Zhu, L. Dai, and R. W. Heath Jr, “Successive Bayesian reconstructor for channel estimation in ﬂuid antenna systems,” arXiv preprint, arXiv:2312.06551v3, Jan. 2024.
+- [155] D. Fan et al., “Angle domain channel estimation in hybrid millime-ter wave massive MIMO systems,” IEEE Trans. Wireless Commun., vol. 17, no. 12, pp. 8165–8179, Dec. 2018.
+- [156] J. Lee, G.-T. Gil, and Y. H. Lee, “Channel estimation via orthogonal matching pursuit for hybrid MIMO systems in millimeter wave com- munications,” IEEE Trans. Commun., vol. 64, no. 6, pp. 2370–2386, Jun. 2016.
+- [157] Z. Guo, X. Wang, and W. Heng, “Millimeter-wave channel estimation based on 2-D beamspace MUSIC method,” IEEE Trans. Wireless Commun., vol. 16, no. 8, pp. 5384–5394, Aug. 2017.
+- [158] R. Roy, and T. Kailath, “ESPRIT-estimation of signal parameters via rotational invariance techniques,” IEEE Trans. Acoustics, Speech, & Sig. Proc., vol. 37, no. 7, pp. 984–995, Jul. 1989.
+- [159] M. Haardt, and J. A. Nossek, “Unitary ESPRIT: How to obtain increased estimation accuracy with a reduced computational burden,” IEEE Trans. Sig. Proc., vol. 43, no. 5, pp. 1232–1242, May 1995.
+- [160] B. H. Fleury, D. Dahlhaus, R. Heddergott, and M. Tschudin, “Wideband angle of arrival estimation using the SAGE algorithm,” in Proc. Int. Symp. Spread Spectrum Tech. & Appl., vol. 1, pp. 79–85, 25 Sept. 1996, Mainz, Germany.
+- [161] M. Gu and S. C. Eisenstat, “Efﬁcient algorithms for computing a strong rank-revealing QR factorization,” SIAM J. Scientiﬁc Computing, vol. 17, no. 4, pp. 848–869, 1996.
+- [162] A. Goldsmith, S. Jafar, N. Jindal, and S. Vishwanath, “Capacity limits of MIMO channels,” IEEE J. Select. Areas Commun., vol. 21, no. 5, pp. 684–702, Jun. 2003.
+- [163] Z. Cheng et al., “Sum-rate maximization for movable antenna enabled multiuser communications,” arXiv preprint, arXiv:2309.11135v2, Sept. 2023.
+- [164] X. Pi, L. Zhu, Z. Xiao, and R. Zhang, “Multiuser communications with movable-antenna base station via antenna position optimization,” arXiv preprint, arXiv:2308.05546, Aug. 2023.
+- [165] Z. Xiao, X. Pi, L. Zhu, X.-G. Xia, and R. Zhang, “Multiuser communi-cations with movable-antenna base station: Joint antenna positioning,receive combining, and power control,” IEEE Trans. Wireless Com-mun., early access, doi:10.1109/TWC.2024.3486320, 2024.
+- [166] L. Zhu, W. Ma, B. Ning, and R. Zhang, “Movable-antenna enhanced multiuser communication via antenna position optimization,” IEEE Trans. Wireless Commun., vol. 23, no. 7, pp. 7214–7229, Jul. 2024.
+- [167] H. Qin et al., “Antenna positioning and beamforming design for ﬂuid-antenna enabled multi-user downlink communications,” arXiv preprint, arXiv:2311.03046v2, Jan. 2024.
+- [168] Y. Wu, D. Xu, D. W. K. Ng, W. Gerstacker, and R. Schober, “Movable antenna-enhanced multiuser communication: Optimal discrete antenna positioning and beamforming,” arXiv preprint, arXiv:2308.02304, Aug. 2023.
+- [169] Y. Ye et al., “Fluid antenna-assisted MIMO transmission exploiting statistical CSI,” IEEE Commun. Lett., vol. 28, no. 1, pp. 223–227, Jan. 2024.
+- [170] X. Chen, B. Feng, Y. Wu, D. W. K. Ng, and R. Schober, “Joint beam-forming and antenna movement design for moveable antenna systems based on statistical CSI,” in Proc. IEEE Global Conf. Commun., 4-8 Dec. 2023, Kuala Lumpur, Malaysia.
+- [171] L. Zheng and D. Tse, “Diversity and multiplexing: a fundamental trade-off in multiple-antenna channels,” IEEE Trans. Inf. Theory, vol. 49, no. 5, pp. 1073–1096, May 2003.
+- [172] L. Zhao, W. Mo, Y. Ma, and Z. Wang, “Diversity and multiplexing tradeoff in general fading channels,” IEEE Trans. Inf. Theory, vol. 53, no. 4, pp. 1549–1557, Apr. 2007.
+- [173] C. Wang et al., “AI-empowered ﬂuid antenna systems: Opportunities, challenges and future directions,” IEEE Wireless Commun., vol. 31, no. 5, pp. 34–41, Oct. 2024.
+- [174] A. N. Elmachtoub and P. Grigas, “Smart "Predict, and then "Opti-mize",” Management Science, vol. 68, no. 1, pp. 9–26, 2022.
+- [175] J. Zou, S. Sun, and C. Wang, “Online learning-induced port selection for ﬂuid antenna in dynamic channel environment,” IEEE Wireless Commun. Lett., vol. 13, no. 2, pp. 313–317, Feb. 2024.
+- [176] I. Bello, H. Pham, Q. V. Le, M. Norouzi, and S. Bengio, “Neural com-binatorial optimization with reinforcement learning,” arXiv preprint,arXiv:1611.09940v3, Jan. 2017.
+- [177] F. Wang, M. C. Gursoy, and S. Velipasalar, “Multi-agent reinforcement learning with pointer networks for network slicing in cellular systems,” in Proc. IEEE Inter. Conf. Commun., pp. 1841–1846, 16-20 May 2022, Seoul, Korea.
+- [178] H. Xu et al., “Revisiting outage probability analysis for two-user ﬂuid antenna multiple access system,” IEEE Trans. Wireless Commun., vol. 23, no. 8, pp. 9534–9548, Aug. 2024.
+- [179] N. Waqar, K.-K. Wong, K.-F. Tong, A. Sharples, and Y. Zhang, “Deep learning enabled slow ﬂuid antenna multiple access,” IEEE Commun. Lett., vol. 27, no. 3, pp. 861–865, Mar. 2023.
+- [180] Y. Chen, S. Li, Y. Hou, and X. Tao, “Energy-efﬁciency optimization for slow ﬂuid antenna multiple access using mean-ﬁeld game,” IEEE Wireless Commun. Lett., vol. 13, no. 4, pp. 915–918, Apr. 2024.
+- [181] H. Yang, K.-K. Wong, K.-F. Tong, Y. Zhang, and C.-B. Chae, “Per-formance analysis of slow ﬂuid antenna multiple access in noisy channels using Gauss-Laguerre and Gauss-Hermite Quadratures,” IEEE Commun. Lett., vol. 27, no. 7, pp. 1734–1738, Jul. 2023.
+- [182] K.-K. Wong, K.-F. Tong, Y. Chen, and Y. Zhang, “Fast ﬂuid antenna multiple access enabling massive connectivity,” IEEE Commun. Lett., vol. 27, no. 2, pp. 711–715, Feb. 2023.
+- [183] K.-K. Wong, K.-F. Tong, Y. Chen, and Y. Zhang, “Maximizing the network outage rate for fast ﬂuid antenna multiple access systems,” IET Commun., vol. 17, no. 8, pp. 928–939, May 2023.
+- [184] R. H. Etkin, D. N. C. Tse, and H. Wang, “Gaussian interference channel capacity to within one bit,” IEEE Trans. Inf. Theory, vol. 54, no. 12, pp. 5534–5562, Dec. 2008.
+- [185] A. Haghi and A. K. Khandani, “Boundary of the Gaussian Han-Kobayashi rate region,” IEEE Trans. Inf. Theory, vol. 67, no. 4, pp. 2034–2054, Apr. 2021.
+- [186] K. K. Wong et al., “Virtual FAS by learning-based imaginary antennas,” IEEE Wireless Commun. Lett., vol. 13, no. 6, pp. 1581–1585, Jun. 2024.
+- [187] K. K. Wong, “Compact ultra massive array (CUMA) with 4 RF chains for massive connectivity,” in Proc. IEEE Int. Workshop Sig. Process. Adv. Wireless Commun. (SPAWC), pp. 286–290, 10-13 Sept. 2024, Lucca, Italy.
+- [188] K. K. Wong, “Transmitter CSI-free RIS-randomized CUMA for ex-treme massive connectivity,” IEEE Open J. Commun. Society, vol. 5, pp. 6890–6902, 2024.
+- [189] A. C. K. Mak, C. R. Rowell, and R. D. Murch, “Isolation enhancement between two closely packed antennas,” IEEE Trans. Antennas & Propag., vol. 56, no. 11, pp. 3411–3419, Nov. 2008.
+- [190] C.-Y. Chiu, C.-H. Cheng, R. D. Murch, and C. R. Rowell, “Reduction of mutual coupling between closely-packed antenna elements,” IEEE Trans. Antennas & Propag., vol. 55, no. 6, pp. 1732–1738, Jun. 2007.
+- [191] A. Zhuravlev, V. Razevig, S. Ivashov, A. Bugaev, and M. Chizh, “Experimental simulation of multi-static radar with a pair of separated movable antennas,” in Proc. IEEE Inter. Conf. Microwaves, Commun., Antennas & Elect. Syst., 2-4 Nov. 2015, Tel Aviv, Israel.
+- [192] X. Li, Y. Zhou, Z. Shen, B. Song, and S. Li, “Using a moving antenna to improve GNSS/INS integration performance under low-dynamic scenarios,” IEEE Trans. Intelligent Transport. Syst., vol. 23, no. 10, pp. 17717–17728, Oct. 2022.
+- [193] C. Murray, and R. R. Franklin, “Independently tunable annular slot antenna resonant frequencies using ﬂuids,” IEEE Antennas & Wireless Propag. Lett., vol. 13, pp. 1449–1452, Jul. 2014.
+- [194] M. Konca, and P. A. Warr, “A frequency-reconﬁgurable antenna archi-tecture using dielectric ﬂuids,” IEEE Trans. Antennas & Propag., vol.63, no. 12, pp. 5280–5286, Dec. 2015.
+- [195] A. Singh, I. Goode, and C. E. Saavedra, “A multistate frequency recon-ﬁgurable monopole antenna using ﬂuidic channels,” IEEE Antennas & Wireless Propag. Lett., vol. 18, no. 5, pp. 856–860, May 2019.
+- [196] Y.-H. Qian, and Q.-X. Chu, “A pattern-reconﬁgurable water-loaded MIMO antenna,” Microw. Opt. Technol. Lett., vol. 59, no. 7, pp. 1608–1613, Jul. 2017.
+- [197] Z. Chen, and H. Wong, “Wideband glass and liquid cylindrical dielec-tric resonator antenna for pattern reconﬁgurable design,” IEEE Trans. Antennas & Propag., vol. 65, no. 5, pp. 2157–2164, May 2017.
+- [198] A. H. Naqvi and S. Lim, “Fluidically beam-steering metasurfaced antenna,” in Proc. IEEE Inter. Symp. Antennas & Propag. & USNC-URSI Radio Science Meeting, pp. 695–696, 7-12 Jul. 2019, Atlanta, GA, USA.
+- [199] L. Xing, J. Zhu, Q. Xu, D. Yan, and Y. Zhao, “A circular beam-steering antenna with parasitic water reﬂectors,” IEEE Antennas & Wireless Propag. Lett., vol. 18, no. 10, pp. 2140–2144, Oct. 2019.
+- [200] J. Ren et al., “Radiation pattern and polarization reconﬁgurable antenna using dielectric liquid,” IEEE Trans. Antennas & Propag., vol. 68, no. 12, pp. 8174–8179, Dec. 2020.
+- [201] J. Hao et al., “Pattern-reconﬁgurable Yagi-Uda antenna based on liquid metal,” IEEE Antennas & Wireless Propag. Lett., vol. 20, no. 4, pp. 587–591, Apr. 2021.
+- [202] M. Wang, and Q.-X. Chu, “A wideband polarization-reconﬁgurable water dielectric resonator antenna,” IEEE Antennas & Wireless Propag. Lett., vol. 18, no. 2, pp. 402–406, Feb. 2019.
+- [203] Z. Chen, H. Wong, and J. Kelly, “A polarization-reconﬁgurable glass dielectric resonator antenna using liquid metal,” IEEE Trans. Antennas & Propag., vol. 67, no. 5, pp. 3427–3432, May 2019.
+- [204] C. Xu, Z. Wang, Y. Wang, P. Wang, and S. Gao, “A polarization-reconﬁgurable wideband high-gain antenna using liquid metal tuning,” IEEE Trans. Antennas & Propag., vol. 68, no. 8, pp. 5835–5841, Aug. 2020.
+- [205] Z. Chen, and H. Wong, “Liquid dielectric resonator antenna with cir-cular polarization reconﬁgurability,” IEEE Trans. Antennas & Propag., vol. 66, no. 1, pp. 444–449, Jan. 2018.
+- [206] A. Pourghorban Saghati, J. Batra, J. Kameoka, and K. Entesari, “A microﬂuidically-switched CPW folded slot antenna,” in Proc. IEEE Antennas & Propag. Society Inter. Symp. (APSURSI), pp. 557–558, 6-11 Jul. 2014, Memphis, TN, USA.
+- [207] S. Alkaraki, J. Kelly, A. L. Borja, R. Mittra, and Y. Wang, “Gallium-based liquid metal substrate integrated waveguide switches,” IEEE Microw. & Wireless Compon. Lett., vol. 31, no. 3, pp. 257–260, Mar. 2021.
+- [208] Y. Shen, K.-F. Tong, and K.-K. Wong, “Reconﬁgurable surface wave ﬂuid antenna for spatial MIMO applications,” in Proc. IEEE-APS Topical Conf. Antennas & Propag. Wireless Commun. (APWC), pp. 150–152. 9-13 Aug. 2021, Honolulu, HI, USA.
+- [209] Y. Shen, K.-F. Tong, and K.-K. Wong, “Radiation pattern diversi-ﬁed single-ﬂuid-channel surface-wave antenna for mobile communica-tions,” in Proc. IEEE-APS Topical Conf. Antennas & Propag. Wireless Commun., pp. 49–51, 5-9 Sept. 2022, Cape Town, South Africa.
+- [210] Y. Shen, K.-F. Tong, and K.-K. Wong, “Radiation pattern diversiﬁed double-ﬂuid-channel surface-wave antenna for mobile communica-tions,” in Proc. IEEE-APS Topical Conf. Antennas & Propag. Wireless Commun., pp. 85–88, 5-9 Sept. 2022, Cape Town, South Africa.
+- [211] H. Wang, Y. Shen, K.-F. Tong, and K.-K. Wong, “Continuous elec-trowetting surface-wave ﬂuid antenna for mobile communications,” in Proc. TENCON, 1-4 Nov. 2022, Hong Kong.
+- [212] C. G. Cooney, C.-Y. Chen, M. R. Emerling, A. Nadim, and J. D. Ster-ling, “Electrowetting droplet microﬂuidics on a single planar surface,” Microﬂuid Nanoﬂuid, vol. 2, pp. 435–446, Sept. 2006.
+- [213] M. Gong and C.-J. Kim, “Two-dimensional digital microﬂuidic system by multilayer printed circuit board,” in Proc. IEEE Inter. Conf. Micro Electro Mechanical Syst., pp. 726–729, 30 Jan. 2005-3 Feb. 2005, Miami Beach, FL, USA.
+- [214] H. M. Barlow, and Brown John, Radio Surface Waves, Oxford, Claren-don Press, 1962.
+- [215] J. Wan, K. F. Tong, and C. H. Chan, “Simulation and experimental veriﬁcation for a 52 GHz wideband trapped surface wave propagation system,” IEEE Trans. Antennas & Propag., vol. 67, no. 4, pp. 2158–2166, Apr. 2019.
+- [216] Z. Chu, K. F. Tong, K. K. Wong, C. B. Chae, and Y. Zhang, “Parti-tioning surface wave propagation on reconﬁgurable porous plane,” Sci. Rep., vol. 14, no. 1, pp. 1–12, Jan. 2024.
+- [217] Y. Shen et al., “Design and implementation of mmWave surface wave enabled ﬂuid antennas and experimental results for ﬂuid antenna multiple access,” arXiv preprint, arXiv:2405.09663, May 2024.
+- [218] A. C. K. Mak, C. R. Rowell, R. D. Murch, and C.-L. Mak, “Reconﬁg-urable multiband antenna designs for wireless communication devices,” IEEE Trans. Antennas & Propag., vol. 55, no. 7, pp. 1919–1928, Jul. 2007.
+- [219] J. Leonardo Araque Quijano and G. Vecchi, “Optimization of an innovative type of compact frequency-reconﬁgurable antenna,” IEEE Trans. Antennas & Propag., vol. 57, no. 1, pp. 9–18, Jan. 2009.
+- [220] J.Perruisseau-Carrier, F. Bongard, R. Golubovic-Niciforovic, R. Torres-Sanchez, and J. R. Mosig, “Contributions to the modeling and design of reconﬁgurable reﬂecting cells embedding discrete control elements,” IEEE Trans. Microw. Theory & Tech., vol. 58, no. 6, pp. 1621–1628, Jun. 2010.
+- [221] W. Yoon et al., “A reconﬁgurable circularly polarized microstrip antenna with a slotted ground plane,” IEEE Antennas & Propag. Mag., vol. 9, pp. 1161–1164, Dec. 2010.
+- [222] X. Yang, B. Shao, F. Yang, A. Z. Elsherbeni, and B. Gong, “A polarization reconﬁgurable patch antenna with loop slots on the ground plane,” IEEE Trans. Antennas & Propag., vol. 11, pp. 69–72, Jan. 2012.
+- [223] S. Tang, Y. Zhang, Z. Han, C.-Y. Chiu, and R. Murch, “A pattern-reconﬁgurable antenna for single-RF 5G millimeter-wave communica-tions,” IEEE Antennas & Wireless Propag. Lett., vol. 20, no. 12, pp. 2344–2348, Dec. 2021.
+- [224] L. Pringle et al., “A reconﬁgurable aperture antenna based on switched links between electrically small metallic patches,” IEEE Trans. Anten-nas & Propag., vol. 52, no. 6, pp. 1434–1445, Jun. 2004.
+- [225] C. Y. Chiu, J. Li, S. Song, and R. D. Murch, “Frequency-reconﬁgurable pixel slot antenna,” IEEE Trans. Antennas & Propag., vol. 60, no. 10, pp. 4921–4924, Oct. 2012.
+- [226] S. Song and R. D. Murch, “An efﬁcient approach for optimizing frequency reconﬁgurable pixel antennas using genetic algorithms,” IEEE Trans. Antennas & Propag., vol. 62, no. 2, pp. 609–620, Feb. 2014.
+- [227] D. Rodrigo, B. A. Cetiner, and L. Jofre, “Frequency, radiation pattern and polarization reconﬁgurable antenna using a parasitic pixel layer,” IEEE Trans. Antennas & Propag., vol. 62, no. 6, pp. 3422–3427, Jun. 2014.
+- [228] P. Lotﬁ, S. Soltani, and R. D. Murch, “Printed endﬁre beam-steerable pixel antenna,” IEEE Trans. Antennas & Propag., vol. 65, no. 8, pp. 3913–3923, Aug. 2017.
+- [229] F. Jiang, C.-Y. Chiu, S. Shen, Q. S. Cheng, and R. Murch, “Pixel antenna optimization using N-port characteristic mode analysis,” IEEE Trans. Antennas & Propag., vol. 68, no. 5, pp. 3336–3347, May 2020.
+- [230] Y. Zhang et al., “A low-proﬁle microstrip vertically polarized endﬁre antenna with 360◦beam-scanning and high beam-shaping capability,” IEEE Trans. Antennas & Propag., vol. 70, no. 9, pp. 7691–7702, Sept. 2022.
+- [231] Y. Zhang et al.,“A highly pattern-reconﬁgurable planar antenna with 360◦single- and multi-beam steering,” IEEE Trans. Antennas & Propag., vol. 70, no. 8, pp. 6490–6504, Aug. 2022.
+- [232] S. Soltani, P. Lotﬁ, and R. D. Murch, “Design and optimization of multiport pixel antennas,” IEEE Trans. Antennas & Propag., vol. 66, no. 4, pp. 2049–2054, Apr. 2018.
+- [233] S. Shen, Y. Sun, S. Song, D. P. Palomar, and R. D. Murch, “Successive Boolean optimization of planar pixel antennas,” IEEE Trans. Antennas & Propag., vol. 65, no. 2, pp. 920–925, Feb. 2017.
+- [234] F. Jiang et al., “Pixel antenna optimization based on perturbation sensitivity analysis,” IEEE Trans. Antennas & Propag., vol. 70, no. 1, pp. 472–486, Jan. 2022.
+- [235] J. Zhang et al., “A novel pixel-based reconﬁgurable antenna applied in ﬂuid antenna systems with high switching speed,” IEEE Open J. Antennas & Propag., early access, doi:10.1109/OJAP.2024.3489215, 2024.
+- [236] 3GPP TSG#103, “RP-240823 Additional considerations for 6G time-line," March 2024.
+- [237] S. Dash, C. Psomas, and I. Krikidis, “Selection of metallic liquid in sub-6 GHz antenna design for 6G networks,” Sci. Rep., vol. 13, no. 1, p. 20551, Nov. 2023.
+- [238] L. Tlebaldiyeva, S. Arzykulov, K. M. Rabie, X. Li, and G. Nau-ryzbayev, “Outage performance of ﬂuid antenna system (FAS)-aided Terahertz communication networks,” in Proc. IEEE Inter. Conf. Com-mun., 28 May 2023-1 Jun. 2023, Rome, Italy.
+- [239] D. Serghiou, M. Khalily, T. W. C. Brown, and R. Tafazolli, “Tera-hertz channel propagation phenomena, measurement techniques and modeling for 6G wireless communication applications: A survey, open challenges and future research directions,” IEEE Commun. Surv. & Tut., vol. 24, no. 4, pp. 1957–1996, Fourthquarter 2022.
+- [240] A. Mezghani et al., “Reincorporating circuit theory into information theory,” IEEE BITS Inf. Theory Mag., early access, doi:10.1109/MBITS.2023.3346329, Dec. 2023.
+- [241] C. Psomas, G. M. Kraidy, K.-K. Wong, and I. Krikidis, “Fluid antenna systems with outdated channel estimates,” in Proc. IEEE Inter. Conf. Commun., pp. 2970–2975, 28 May 2023-1 Jun. 2023, Rome, Italy.
+- [242] A. Evans, “Latency of ﬂuid antenna systems in mobile devices: Is a liquid-metal slug too sluggish?,” in Wellington Faculty Eng. Symp., 2023.
+- [243] J. G. Proakis, Digital signal processing: Principles, algorithms, and applications, 4th Edition. Pearson Education India, 2007.
+- [244] J. Zhu, Z. Wan, L. Dai, M. Debbah, and H. V. Poor, “Electromagnetic information theory: Fundamentals, modeling, applications, and open problems,” IEEE Wireless Commun., vol. 31, no. 3, pp. 156–162, Jun. 2024.
+- [245] A. Pizzo, T. L. Marzetta, and L. Sanguinetti, “Degrees of freedom of holographic MIMO channels,” in Proc. IEEE Inter. Workshop Sig. Process. Advances Wireless Commun., 26-29 May 2020, Atlanta, GA, USA.
+- [246] A. Pizzo, A. d. J. Torres, L. Sanguinetti, and T. L. Marzetta, “Nyquist sampling and degrees of freedom of electromagnetic ﬁelds,” IEEE Trans. Sig. Process., vol. 70, pp. 3935–3947, Jun. 2022. 
+- [247] M. Di Renzo and M. D. Migliore, “Electromagnetic signal and informa-tion theory–on electromagnetically consistent communication models for the transmission and processing of information,” arXiv preprint, arXiv:2311.06661v2, Dec. 2023. 
+- [248] L. Jiao, P. Wang, A. Alipour-Fanid, H. Zeng, and K. Zeng, “Enabling efﬁcient blockage-aware handover in RIS-assisted mmWave cellular networks,” IEEE Trans. Wireless Commun., vol. 21, no. 4, pp. 2243–2257, Apr. 2022.
+- [249] R. L. Burden, Numerical analysis. Brooks/Cole Cengage Learning, 2011.
+- [250] J. D. Vega-Sánchez, A. E. López-Ramírez, L. Urquiza-Aguiar, and D. P. M. Osorio, “Novel expressions for the outage probability and diversity gains in ﬂuid antenna system,” IEEE Wirel. Commun. Lett., vol. 13, no. 2, pp. 372–376, Feb. 2024.
+- [251] J. D. Vega-Sanchez, L. Urquiza-Aguiar, M. C. P. Paredes, and D. P. M. Osorio, “A simple method for the performance analysis of ﬂuid antenna systems under correlated Nakagami-m fading,” IEEE Wireless Commun. Lett., vol. 13, no. 2, pp. 377–381, Feb. 2024.
+- [252] P. D. Alvim et al., “On the performance of ﬂuid antennas systems under α-µ fading channels,” IEEE Wireless Commun. Lett., vol. 13, no. 1, pp. 108–112, Jan. 2024.
+- [253] L. Tlebaldiyeva, G. Nauryzbayev, S. Arzykulov, A. Eltawil, and T. Tsiftsis, “Enhancing QoS through ﬂuid antenna systems over corre-lated Nakagami-m fading channels,” in Proc. IEEE Wireless Commun. Netw. Conf., pp. 78–83, 10-13 Apr. 2022, Austin, TX, USA.
+- [254] P. Mukherjee, C. Psomas, and I. Krikidis, “On the level crossing rate of ﬂuid antenna systems,” in Proc. IEEE Inter. Workshop Sig. Process. Advances Wireless Commun., 4-6 Jul. 2022, Oulu, Finland.
+- [255] L. Tlebaldiyeva, S. Arzykulov, A. Dadlani, K. M. Rabie, and G. Nau-ryzbayev, “Exploring the performance of ﬂuid antenna system (FAS)-aided B5G mmWave networks,” in Proc. IEEE Global Conf. Commun., 4-8 Dec. 2023, Kuala Lumpur, Malaysia.
+- [256] X. Lai et al., “On performance of ﬂuid antenna system using maximum ratio combining,” IEEE Commun. Lett., vol. 28, no. 2, pp. 402–406, Feb. 2024.
+- [257] Z. Chai, K.-K. Wong, K.-F. Tong, Y. Chen, and Y. Zhang, “Performance of machine learning aided ﬂuid antenna system with improved spatial correlation model,” in Proc. Inter. Conf. 6G Netw., 6-8 Jul. 2022, Paris, France.
+- [258] E. Faddoul, Y. Guo, G. M. Kraidy, C. Psomas, and I. Krikidis, “Correlation mitigation schemes for index-modulated ﬂuid antenna systems,” in Proc. IEEE Global Conf. Commun., 4-8 Dec. 2023, Kuala Lumpur, Malaysia.
+- [259] J. Zhu et al., “Index modulation for ﬂuid antenna-assisted MIMO communications: System design and performance analysis,” IEEE Trans. Wireless Commun., vol. 23, no. 8, pp. 9701–9713, Aug. 2024.
+- [260] Y. Chen, and T. Xu, “Fluid antenna index modulation communications,” IEEE Wireless Commun. Lett., vol. 13, no. 4, pp. 1203–1207, Apr. 2024.
+- [261] E. Faddoul, G. M. Kraidy, C. Psomas, and I. Krikidis, “Advanced chan-nel coding designs for index-modulated ﬂuid antenna systems,” IEEE Trans. Commun., early access, doi:10.1109/TCOMM.2024.3446616, 2024.
+- [262] O. Elijah et al., “Intelligent massive MIMO systems for beyond 5G networks: An overview and future trends,” IEEE Access, vol. 10, pp. 102532–102563, 2022.
+- [263] D. Zhang et al., “Fluid antenna array enhanced over-the-air computa-tion,” IEEE Wireless Commun. Lett., vol. 13, no. 6, pp. 1541–1545, Jun. 2024.
+- [264] Z. Cheng et al., “Movable antenna-empowered AirComp,” arXiv preprint, arXiv:2309.12596, Sept. 2023. 
+- [265] B. Smida et al., “Full-duplex wireless for 6G: Progress brings new opportunities and challenges,” IEEE J. Select. Areas Commun., vol. 41, no. 9, pp. 2729–2750, Sept. 2023.
+- [266] L. Tlebaldiyeva, S. Arzykulov, T. A. Tsiftsis, and G. Nauryzbayev, “Full-duplex cooperative NOMA-based mmWave networks with ﬂuid antenna system (FAS) receivers,” in Proc. Inter. Balkan Conf. Commun. Netw., 5-8 Jun. 2023, Istanbul, Turkey.
+- [267] Y. Xu et al., “Energy efﬁciency maximization under delay-outage probability constraints using ﬂuid antenna systems,” in Proc. IEEE Statistical Sig. Process. Workshop), pp. 105–109, 2-5 Jul. 2023, Hanoi, Vietnam.
+- [268] L. R. Varshney, “Transporting information and energy simultaneously,” in Proc. IEEE Inter. Symp. Inf. Theory, pp. 1612–1616, 6-11 Jul. 2008, Toronto, ON, Canada.
+- [269] R. Zhang and C. K. Ho, “MIMO broadcasting for simultaneous wireless information and power transfer,” IEEE Trans. Wireless Commun., vol. 12, no. 5, pp. 1989–2001, May 2013.
+- [270] Y. Zeng and R. Zhang, “Full-duplex wireless-powered relay with self-energy recycling,” IEEE Wireless Commun. Lett., vol. 4, no. 2, pp. 201– 204, Apr. 2015.
+- [271] X. Lin, H. Yang, Y. Zhao, J. Hu, and K.-K. Wong, “Performance analysis of integrated data and energy transfer assisted by ﬂuid antenna systems,” arXiv preprint, arXiv:2311.07134v2, Feb. 2024.
+- [272] L. Zhang, H. Yang, Y. Zhao, and J. Hu, “Joint port selection and beamforming design for ﬂuid antenna assisted integrated data and energy transfer,” IEEE Wireless Commun. Lett., vol. 13, no. 7, pp. 1833–1837, Jul. 2024.
+- [273] J. A. Zhang et al., “Enabling joint communication and radar sensing in mobile networks–A survey,” IEEE Commun. Surv. & Tut., vol. 24, no. 1, pp. 306–345, Firstquarter 2022.
+- [274] A. Zhang et al., “Perceptive mobile networks: Cellular networks with radio vision via joint communication and radar sensing,” IEEE Veh.Technol. Mag., vol. 16, no. 2, pp. 20–30, Jun. 2021.
+- [275] K. T. Selvan and R. Janaswamy, “Fraunhofer and Fresnel distances: Uniﬁed derivation for aperture antennas,” IEEE Antennas & Propag.Mag., vol. 59, no. 4, pp. 12–15, Aug. 2017.
+- [276] E. Björnson and L. Sanguinetti, “Power scaling laws and near-ﬁeld behaviors of massive MIMO and intelligent reﬂecting surfaces,” IEEE Open J. Commun. Society, vol. 1, pp. 1306–1324, Sept. 2020.
+- [277] X. Wei and L. Dai, “Channel estimation for extremely large-scale massive MIMO: Far-ﬁeld, near-ﬁeld, or hybrid-ﬁeld?,” IEEE Commun. Lett., vol. 26, no. 1, pp. 177–181, Jan. 2022.
+- [278] M. Cui, Z. Wu, Y. Lu, X. Wei, and L. Dai, “Near-ﬁeld MIMO communications for 6G: Fundamentals, challenges, potentials, and future directions,” IEEE Commun. Mag., vol. 61, no. 1, pp. 40–46, Jan. 2023.
+- [279] N. J. Myers and R. W. Heath, “InFocus: A spatial coding technique to mitigate misfocus in near-ﬁeld LoS beamforming,” IEEE Trans. Wireless Commun., vol. 21, no. 4, pp. 2193–2209, Apr. 2022.
+- [280] Z. Wu and L. Dai, “Multiple access for near-ﬁeld communications: SDMA or LDMA?,” IEEE J. Select. Areas Commun., vol. 41, no. 6, pp. 1918–1935, Jun. 2023.
+- [281] J. Zheng et al., “FAS-assisted NOMA short-packet communication systems,” IEEE Trans. Veh. Technol., vol. 73, no. 7, pp. 10732–10737, Jul. 2024.
+- [282] K.-K. Wong, C.-B. Chae, and Y. Zhang, “On rate performance of M-ary amplitude shift keying compact ultra massive array systems for massive connectivity,” IET Elect. Lett., vol. 60, no. 5, Mar. 2024.
+- [283] W. K. New and C. Y. Leow, “Unmanned aerial vehicle (UAV) in future communication system,” in Proc. IEEE Asia-Paciﬁc Conf. Commun.,pp. 217–222, 11-13 Oct. 2021, Kuala Lumpur, Malaysia.
+- [284] L. Wu, L. Qiu, and X. Liang, “Analysis of RSMA-aided UAV network: A stochastic geometry approach,” in Proc. IEEE Veh. Technol. Conf. Spring, 19-22 Jun. 2022, Helsinki, Finland.
+- [285] S. Zhang, J. Liu, Z. Shi, J. Wang, and N. Kato, “Design and optimiza-tion of RSMA for coexisting HTC/MTC in 6G and future networks,” IEEE Trans. Wireless Commun., vol. 22, no. 12, pp. 9533–9548, Dec.2023.
+- [286] W. K. New, C. Y. Leow, K. Navaie, and Z. Ding, “Robust non-orthogonal multiple access for aerial and ground users,” IEEE Trans. Wireless Commun., vol. 19, no. 7, pp. 4793–4805, Jul. 2020.
+- [287] W. K. New, C. Y. Leow, K. Navaie, Y. Sun, and Z. Ding, “Interference-aware NOMA for cellular-connected UAVs: Stochastic geometry anal-ysis,” IEEE J. Select. Areas Commun., vol. 39, no. 10, pp. 3067–3080, Oct. 2021.
+- [288] W. K. New, C. Y. Leow, K. Navaie, Y. Sun, and Z. Ding, “Application of NOMA for cellular-connected UAVs: Opportunities and challenges,” Science China Information Sciences, vol. 64, pp. 1–14, Apr. 2021.
+- [289] W. K. New, C. Y. Leow, K. Navaie, and Z. Ding, “Aerial-terrestrial network NOMA for cellular-connected UAVs,” IEEE Trans. Veh. Technol., vol. 71, no. 6, pp. 6559–6573, Jun. 2022.
+- [290] E. Ibrahim, R. Nilsson, and J. van de Beek, “Intelligent reﬂecting surfaces for MIMO communications in LoS environments,” in Proc. IEEE Wireless Commun. Netw. Conf., 29 Mar.-1 Apr. 2021, Nanjing, China.
+- [291] E. Ibrahim, R. Nilsson, and J. van de Beek, “On the position of intelligent reﬂecting surfaces,” in Proc. Joint European Conf. Netw. Commun. & 6G Summit, pp. 66–71, 8-11 Jun. 2021, Porto, Portugal.
+- [292] S. H. Chae and K. Lee, “Cooperative communication for the rank-deﬁcient MIMO interference channel with a reconﬁgurable intelligent surface,” IEEE Trans. Wireless Commun., vol. 22, no. 3, pp. 2099–2112, Mar. 2023.
+- [293] B. Tang et al., “Fluid antenna enabling secret communications,” IEEE Commun. Lett., vol. 27, no. 6, pp. 1491–1495, Jun. 2023.
+- [294] H. Xu et al., “Coding enhanced cooperative jamming for secret communication in ﬂuid antenna systems,” IEEE Wireless Commun. Lett., vol. 28, no. 9, pp. 1991–1995, Sept. 2024. 
+- [295] Z. Cheng et al., “Enabling secure wireless communications via movable antennas,” arXiv preprint, arXiv:2312.14018, Dec. 2023.
+- [296] G. Hu, Q. Wu, K. Xu, J. Si, and N. Al-Dhahir, “Secure wireless communication via movable-antenna array,” IEEE Sig. Process. Lett., vol. 31, pp. 516–520, 2024.
+- [297] J. D. Vega-Sánchez, L. Urquiza-Aguiar, H. R. C. Mora, N. V. O. Garzón, and D. P. M. Osorio, “Fluid antenna system: Secrecy outage probability analysis,” IEEE Trans. Veh. Technol., vol. 73, no. 8, pp. 11458–11469, Aug. 2024.
+- [298] J. Yao et al., “Proactive monitoring via jamming in ﬂuid antenna systems,” IEEE Commun. Lett., vol. 28, no. 7, pp. 1698–1702, Jul. 2024.
+- [299] F. R. Ghadi et al., “On performance of RIS-aided ﬂuid antenna systems,” IEEE Wireless Commun. Lett., vol. 13, no. 8, pp. 2175–2179, Aug. 2024.
+- [300] B. Tang et al., “Power minimization of multiuser FAS-RIS downlink system,” submitted to IEEE Trans. Veh. Technol., 2024.
+- [301] K.-K. Wong, K.-F. Tong, Y. Chen, and Y. Zhang, “Extra-large MIMO enabling slow ﬂuid antenna massive access for millimeter-wave bands,” Elect. Lett., vol. 58, no. 25, pp. 1016–1018, Dec. 2022.
+- [302] H. Chen et al., “A tutorial on Terahertz-band localization for 6G communication systems,” IEEE Commun. Surv. & Tut., vol. 24, no. 3, pp. 1780–1815, thirdquarter 2022.
+- [303] C. Han et al., “Terahertz wireless channels: A holistic survey on measurement, modeling, and analysis,” IEEE Commun. Surv. & Tut., vol. 24, no. 3, pp. 1670–1707, thirdquarter 2022.
+- [304] A. Sayeed and N. Behdad, “Continuous aperture phased MIMO: Basic theory and applications,” in Proc. Annual Allerton Conf. Commun., Control, & Comput., pp. 1196–1203, 29 Sept.-1 Oct. 2010, Monticello, IL, USA.
+- [305] Z. Wan, Z. Gao, F. Gao, M. D. Renzo, and M.-S. Alouini, “Terahertz massive MIMO with holographic reconﬁgurable intelligent surfaces,” IEEE Trans. Commun., vol. 69, no. 7, pp. 4732–4750, Jul. 2021.
+- [306] J. Yuan, H. Q. Ngo, and M. Matthaiou, “Towards large intelligent surface (LIS)-based communications,” IEEE Trans. Commun., vol. 68, no. 10, pp. 6568–6582, Oct. 2020.
+- [307] Z. Zhang and L. Dai, “Pattern-division multiplexing for multi-user continuous-aperture MIMO,” IEEE J. Select. Areas Commun., vol. 41, no. 8, pp. 2350–2366, Aug. 2023.
+- [308] O. T. Demir, E. Bjornson, and L. Sanguinetti, “Channel modeling and channel estimation for holographic massive MIMO with planar arrays,” IEEE Wireless Commun. Lett., vol. 11, no. 5, pp. 997–1001, May 2022.
+- [309] Z. Wan, J. Zhu, and L. Dai, “Can continuous aperture MIMO obtain more mutual information than discrete MIMO?,” IEEE Commun. Lett., vol. 27, no. 12, pp. 3185–3189, Dec. 2023.
+- [310] C. She et al., “Deep learning for ultra-reliable and low-latency com-munications in 6G networks,” IEEE Netw., vol. 34, no. 5, pp. 219–225,Sept./Oct. 2020.
+- [311] O. Abari, H. Rahul, and D. Katabi, “Over-the-air function computation in sensor networks,” arXiv preprint, arXiv:1612.02307, Dec. 2016.
+- [312] G. Zhu, J. Xu, K. Huang, and S. Cui, “Over-the-air computing for wireless data aggregation in massive IoT,” IEEE Wireless Commun., vol. 28, no. 4, pp. 57–65, Aug. 2021.
+- [313] Q. Qi, X. Chen, C. Zhong, and Z. Zhang, “Integration of energy, computation and communication in 6G cellular internet of things,” IEEE Commun. Lett., vol. 24, no. 6, pp. 1333–1337, Jun. 2020.
+- [314] M. Goldenbaum, H. Boche, and S. Sta´nczak, “Nomographic functions: Efﬁcient computation in clustered Gaussian sensor networks,” IEEE Trans. Wireless Commun., vol. 14, no. 4, pp. 2093–2105, Apr. 2015.
+- [315] B. Nazer and M. Gastpar, “Computation over multiple-access chan-nels,” IEEE Trans. Inform. Theory, vol. 53, no. 10, pp. 3498–3516, Oct. 2007.
+- [316] Y. Zuo et al., “Fluid antenna for mobile edge computing,” IEEE Commun. Lett., vol. 28, no. 7, pp. 1728–1732, Jul. 2024.
 
-48
-based on statistical CSI,” in Proc. IEEE Global Conf. Commun., 4-8
-Dec. 2023, Kuala Lumpur, Malaysia.
-- [171] L. Zheng and D. Tse, “Diversity and multiplexing: a fundamental trade-
-off in multiple-antenna channels,” IEEE Trans. Inf. Theory, vol. 49,
-no. 5, pp. 1073–1096, May 2003.
-- [172] L. Zhao, W. Mo, Y. Ma, and Z. Wang, “Diversity and multiplexing
-tradeoff in general fading channels,” IEEE Trans. Inf. Theory, vol. 53,
-no. 4, pp. 1549–1557, Apr. 2007.
-- [173] C. Wang et al., “AI-empowered ﬂuid antenna systems: Opportunities,
-challenges and future directions,” IEEE Wireless Commun., vol. 31, no.
-5, pp. 34–41, Oct. 2024.
-- [174] A. N. Elmachtoub and P. Grigas, “Smart "Predict, and then "Opti-
-mize",” Management Science, vol. 68, no. 1, pp. 9–26, 2022.
-- [175] J. Zou, S. Sun, and C. Wang, “Online learning-induced port selection
-for ﬂuid antenna in dynamic channel environment,” IEEE Wireless
-Commun. Lett., vol. 13, no. 2, pp. 313–317, Feb. 2024.
-- [176] I. Bello, H. Pham, Q. V. Le, M. Norouzi, and S. Bengio, “Neural com-
-binatorial optimization with reinforcement learning,” arXiv preprint,
-arXiv:1611.09940v3, Jan. 2017.
-- [177] F. Wang, M. C. Gursoy, and S. Velipasalar, “Multi-agent reinforcement
-learning with pointer networks for network slicing in cellular systems,”
-in Proc. IEEE Inter. Conf. Commun., pp. 1841–1846, 16-20 May 2022,
-Seoul, Korea.
-- [178] H. Xu et al., “Revisiting outage probability analysis for two-user ﬂuid
-antenna multiple access system,” IEEE Trans. Wireless Commun., vol.
-23, no. 8, pp. 9534–9548, Aug. 2024.
-- [179] N. Waqar, K.-K. Wong, K.-F. Tong, A. Sharples, and Y. Zhang, “Deep
-learning enabled slow ﬂuid antenna multiple access,” IEEE Commun.
-Lett., vol. 27, no. 3, pp. 861–865, Mar. 2023.
-- [180] Y. Chen, S. Li, Y. Hou, and X. Tao, “Energy-efﬁciency optimization
-for slow ﬂuid antenna multiple access using mean-ﬁeld game,” IEEE
-Wireless Commun. Lett., vol. 13, no. 4, pp. 915–918, Apr. 2024.
-- [181] H. Yang, K.-K. Wong, K.-F. Tong, Y. Zhang, and C.-B. Chae, “Per-
-formance analysis of slow ﬂuid antenna multiple access in noisy
-channels using Gauss-Laguerre and Gauss-Hermite Quadratures,” IEEE
-Commun. Lett., vol. 27, no. 7, pp. 1734–1738, Jul. 2023.
-- [182] K.-K. Wong, K.-F. Tong, Y. Chen, and Y. Zhang, “Fast ﬂuid antenna
-multiple access enabling massive connectivity,” IEEE Commun. Lett.,
-vol. 27, no. 2, pp. 711–715, Feb. 2023.
-- [183] K.-K. Wong, K.-F. Tong, Y. Chen, and Y. Zhang, “Maximizing the
-network outage rate for fast ﬂuid antenna multiple access systems,”
-IET Commun., vol. 17, no. 8, pp. 928–939, May 2023.
-- [184] R. H. Etkin, D. N. C. Tse, and H. Wang, “Gaussian interference channel
-capacity to within one bit,” IEEE Trans. Inf. Theory, vol. 54, no. 12,
-pp. 5534–5562, Dec. 2008.
-- [185] A. Haghi and A. K. Khandani, “Boundary of the Gaussian Han-
-Kobayashi rate region,” IEEE Trans. Inf. Theory, vol. 67, no. 4,
-pp. 2034–2054, Apr. 2021.
-- [186] K. K. Wong et al., “Virtual FAS by learning-based imaginary antennas,”
-IEEE Wireless Commun. Lett., vol. 13, no. 6, pp. 1581–1585, Jun. 2024.
-- [187] K. K. Wong, “Compact ultra massive array (CUMA) with 4 RF chains
-for massive connectivity,” in Proc. IEEE Int. Workshop Sig. Process.
-Adv. Wireless Commun. (SPAWC), pp. 286–290, 10-13 Sept. 2024,
-Lucca, Italy.
-- [188] K. K. Wong, “Transmitter CSI-free RIS-randomized CUMA for ex-
-treme massive connectivity,” IEEE Open J. Commun. Society, vol. 5,
-pp. 6890–6902, 2024.
-- [189] A. C. K. Mak, C. R. Rowell, and R. D. Murch, “Isolation enhancement
-between two closely packed antennas,” IEEE Trans. Antennas &
-Propag., vol. 56, no. 11, pp. 3411–3419, Nov. 2008.
-- [190] C.-Y. Chiu, C.-H. Cheng, R. D. Murch, and C. R. Rowell, “Reduction
-of mutual coupling between closely-packed antenna elements,” IEEE
-Trans. Antennas & Propag., vol. 55, no. 6, pp. 1732–1738, Jun. 2007.
-- [191] A. Zhuravlev, V. Razevig, S. Ivashov, A. Bugaev, and M. Chizh,
-“Experimental simulation of multi-static radar with a pair of separated
-movable antennas,” in Proc. IEEE Inter. Conf. Microwaves, Commun.,
-Antennas & Elect. Syst., 2-4 Nov. 2015, Tel Aviv, Israel.
-- [192] X. Li, Y. Zhou, Z. Shen, B. Song, and S. Li, “Using a moving antenna
-to improve GNSS/INS integration performance under low-dynamic
-scenarios,” IEEE Trans. Intelligent Transport. Syst., vol. 23, no. 10,
-pp. 17717–17728, Oct. 2022.
-- [193] C. Murray, and R. R. Franklin, “Independently tunable annular slot
-antenna resonant frequencies using ﬂuids,” IEEE Antennas & Wireless
-Propag. Lett., vol. 13, pp. 1449–1452, Jul. 2014.
-- [194] M. Konca, and P. A. Warr, “A frequency-reconﬁgurable antenna archi-
-tecture using dielectric ﬂuids,” IEEE Trans. Antennas & Propag., vol.
-63, no. 12, pp. 5280–5286, Dec. 2015.
-- [195] A. Singh, I. Goode, and C. E. Saavedra, “A multistate frequency recon-
-ﬁgurable monopole antenna using ﬂuidic channels,” IEEE Antennas &
-Wireless Propag. Lett., vol. 18, no. 5, pp. 856–860, May 2019.
-- [196] Y.-H. Qian, and Q.-X. Chu, “A pattern-reconﬁgurable water-loaded
-MIMO antenna,” Microw. Opt. Technol. Lett., vol. 59, no. 7, pp. 1608–
-1613, Jul. 2017.
-- [197] Z. Chen, and H. Wong, “Wideband glass and liquid cylindrical dielec-
-tric resonator antenna for pattern reconﬁgurable design,” IEEE Trans.
-Antennas & Propag., vol. 65, no. 5, pp. 2157–2164, May 2017.
-- [198] A. H. Naqvi and S. Lim, “Fluidically beam-steering metasurfaced
-antenna,” in Proc. IEEE Inter. Symp. Antennas & Propag. & USNC-
-URSI Radio Science Meeting, pp. 695–696, 7-12 Jul. 2019, Atlanta,
-GA, USA.
-- [199] L. Xing, J. Zhu, Q. Xu, D. Yan, and Y. Zhao, “A circular beam-steering
-antenna with parasitic water reﬂectors,” IEEE Antennas & Wireless
-Propag. Lett., vol. 18, no. 10, pp. 2140–2144, Oct. 2019.
-- [200] J. Ren et al., “Radiation pattern and polarization reconﬁgurable antenna
-using dielectric liquid,” IEEE Trans. Antennas & Propag., vol. 68, no.
-12, pp. 8174–8179, Dec. 2020.
-- [201] J. Hao et al., “Pattern-reconﬁgurable Yagi-Uda antenna based on liquid
-metal,” IEEE Antennas & Wireless Propag. Lett., vol. 20, no. 4, pp.
-587–591, Apr. 2021.
-- [202] M. Wang, and Q.-X. Chu, “A wideband polarization-reconﬁgurable
-water dielectric resonator antenna,” IEEE Antennas & Wireless Propag.
-Lett., vol. 18, no. 2, pp. 402–406, Feb. 2019.
-- [203] Z. Chen, H. Wong, and J. Kelly, “A polarization-reconﬁgurable glass
-dielectric resonator antenna using liquid metal,” IEEE Trans. Antennas
-& Propag., vol. 67, no. 5, pp. 3427–3432, May 2019.
-- [204] C. Xu, Z. Wang, Y. Wang, P. Wang, and S. Gao, “A polarization-
-reconﬁgurable wideband high-gain antenna using liquid metal tuning,”
-IEEE Trans. Antennas & Propag., vol. 68, no. 8, pp. 5835–5841, Aug.
-2020.
-- [205] Z. Chen, and H. Wong, “Liquid dielectric resonator antenna with cir-
-cular polarization reconﬁgurability,” IEEE Trans. Antennas & Propag.,
-vol. 66, no. 1, pp. 444–449, Jan. 2018.
-- [206] A. Pourghorban Saghati, J. Batra, J. Kameoka, and K. Entesari, “A
-microﬂuidically-switched CPW folded slot antenna,” in Proc. IEEE
-Antennas & Propag. Society Inter. Symp. (APSURSI), pp. 557–558,
-6-11 Jul. 2014, Memphis, TN, USA.
-- [207] S. Alkaraki, J. Kelly, A. L. Borja, R. Mittra, and Y. Wang, “Gallium-
-based liquid metal substrate integrated waveguide switches,” IEEE
-Microw. & Wireless Compon. Lett., vol. 31, no. 3, pp. 257–260, Mar.
-2021.
-- [208] Y. Shen, K.-F. Tong, and K.-K. Wong, “Reconﬁgurable surface wave
-ﬂuid antenna for spatial MIMO applications,” in Proc. IEEE-APS
-Topical Conf. Antennas & Propag. Wireless Commun. (APWC), pp.
-150–152. 9-13 Aug. 2021, Honolulu, HI, USA.
-- [209] Y. Shen, K.-F. Tong, and K.-K. Wong, “Radiation pattern diversi-
-ﬁed single-ﬂuid-channel surface-wave antenna for mobile communica-
-tions,” in Proc. IEEE-APS Topical Conf. Antennas & Propag. Wireless
-Commun., pp. 49–51, 5-9 Sept. 2022, Cape Town, South Africa.
-- [210] Y. Shen, K.-F. Tong, and K.-K. Wong, “Radiation pattern diversiﬁed
-double-ﬂuid-channel surface-wave antenna for mobile communica-
-tions,” in Proc. IEEE-APS Topical Conf. Antennas & Propag. Wireless
-Commun., pp. 85–88, 5-9 Sept. 2022, Cape Town, South Africa.
-- [211] H. Wang, Y. Shen, K.-F. Tong, and K.-K. Wong, “Continuous elec-
-trowetting surface-wave ﬂuid antenna for mobile communications,” in
-Proc. TENCON, 1-4 Nov. 2022, Hong Kong.
-- [212] C. G. Cooney, C.-Y. Chen, M. R. Emerling, A. Nadim, and J. D. Ster-
-ling, “Electrowetting droplet microﬂuidics on a single planar surface,”
-Microﬂuid Nanoﬂuid, vol. 2, pp. 435–446, Sept. 2006.
-- [213] M. Gong and C.-J. Kim, “Two-dimensional digital microﬂuidic system
-by multilayer printed circuit board,” in Proc. IEEE Inter. Conf. Micro
-Electro Mechanical Syst., pp. 726–729, 30 Jan. 2005-3 Feb. 2005,
-Miami Beach, FL, USA.
-- [214] H. M. Barlow, and Brown John, Radio Surface Waves, Oxford, Claren-
-don Press, 1962.
-- [215] J. Wan, K. F. Tong, and C. H. Chan, “Simulation and experimental
-veriﬁcation for a 52 GHz wideband trapped surface wave propagation
-system,” IEEE Trans. Antennas & Propag., vol. 67, no. 4, pp. 2158–
-2166, Apr. 2019.
-- [216] Z. Chu, K. F. Tong, K. K. Wong, C. B. Chae, and Y. Zhang, “Parti-
-tioning surface wave propagation on reconﬁgurable porous plane,” Sci.
-Rep., vol. 14, no. 1, pp. 1–12, Jan. 2024.
-- [217] Y. Shen et al., “Design and implementation of mmWave surface
-wave enabled ﬂuid antennas and experimental results for ﬂuid antenna
-multiple access,” arXiv preprint, arXiv:2405.09663, May 2024.
 
-49
-- [218] A. C. K. Mak, C. R. Rowell, R. D. Murch, and C.-L. Mak, “Reconﬁg-
-urable multiband antenna designs for wireless communication devices,”
-IEEE Trans. Antennas & Propag., vol. 55, no. 7, pp. 1919–1928, Jul.
-2007.
-- [219] J. Leonardo Araque Quijano and G. Vecchi, “Optimization of an
-innovative type of compact frequency-reconﬁgurable antenna,” IEEE
-Trans. Antennas & Propag., vol. 57, no. 1, pp. 9–18, Jan. 2009.
-- [220] J.
-Perruisseau-Carrier,
-F.
-Bongard,
-R.
-Golubovic-Niciforovic,
-R. Torres-Sanchez, and J. R. Mosig, “Contributions to the modeling
-and design of reconﬁgurable reﬂecting cells embedding discrete
-control elements,” IEEE Trans. Microw. Theory & Tech., vol. 58,
-no. 6, pp. 1621–1628, Jun. 2010.
-- [221] W. Yoon et al., “A reconﬁgurable circularly polarized microstrip
-antenna with a slotted ground plane,” IEEE Antennas & Propag. Mag.,
-vol. 9, pp. 1161–1164, Dec. 2010.
-- [222] X. Yang, B. Shao, F. Yang, A. Z. Elsherbeni, and B. Gong, “A
-polarization reconﬁgurable patch antenna with loop slots on the ground
-plane,” IEEE Trans. Antennas & Propag., vol. 11, pp. 69–72, Jan. 2012.
-- [223] S. Tang, Y. Zhang, Z. Han, C.-Y. Chiu, and R. Murch, “A pattern-
-reconﬁgurable antenna for single-RF 5G millimeter-wave communica-
-tions,” IEEE Antennas & Wireless Propag. Lett., vol. 20, no. 12, pp.
-2344–2348, Dec. 2021.
-- [224] L. Pringle et al., “A reconﬁgurable aperture antenna based on switched
-links between electrically small metallic patches,” IEEE Trans. Anten-
-nas & Propag., vol. 52, no. 6, pp. 1434–1445, Jun. 2004.
-- [225] C. Y. Chiu, J. Li, S. Song, and R. D. Murch, “Frequency-reconﬁgurable
-pixel slot antenna,” IEEE Trans. Antennas & Propag., vol. 60, no. 10,
-pp. 4921–4924, Oct. 2012.
-- [226] S. Song and R. D. Murch, “An efﬁcient approach for optimizing
-frequency reconﬁgurable pixel antennas using genetic algorithms,”
-IEEE Trans. Antennas & Propag., vol. 62, no. 2, pp. 609–620, Feb.
-2014.
-- [227] D. Rodrigo, B. A. Cetiner, and L. Jofre, “Frequency, radiation pattern
-and polarization reconﬁgurable antenna using a parasitic pixel layer,”
-IEEE Trans. Antennas & Propag., vol. 62, no. 6, pp. 3422–3427, Jun.
-2014.
-- [228] P. Lotﬁ, S. Soltani, and R. D. Murch, “Printed endﬁre beam-steerable
-pixel antenna,” IEEE Trans. Antennas & Propag., vol. 65, no. 8, pp.
-3913–3923, Aug. 2017.
-- [229] F. Jiang, C.-Y. Chiu, S. Shen, Q. S. Cheng, and R. Murch, “Pixel
-antenna optimization using N-port characteristic mode analysis,” IEEE
-Trans. Antennas & Propag., vol. 68, no. 5, pp. 3336–3347, May 2020.
-- [230] Y. Zhang et al., “A low-proﬁle microstrip vertically polarized endﬁre
-antenna with 360◦beam-scanning and high beam-shaping capability,”
-IEEE Trans. Antennas & Propag., vol. 70, no. 9, pp. 7691–7702, Sept.
-2022.
-- [231] Y. Zhang et al.,“A highly pattern-reconﬁgurable planar antenna with
-360◦single- and multi-beam steering,” IEEE Trans. Antennas &
-Propag., vol. 70, no. 8, pp. 6490–6504, Aug. 2022.
-- [232] S. Soltani, P. Lotﬁ, and R. D. Murch, “Design and optimization of
-multiport pixel antennas,” IEEE Trans. Antennas & Propag., vol. 66,
-no. 4, pp. 2049–2054, Apr. 2018.
-- [233] S. Shen, Y. Sun, S. Song, D. P. Palomar, and R. D. Murch, “Successive
-Boolean optimization of planar pixel antennas,” IEEE Trans. Antennas
-& Propag., vol. 65, no. 2, pp. 920–925, Feb. 2017.
-- [234] F. Jiang et al., “Pixel antenna optimization based on perturbation
-sensitivity analysis,” IEEE Trans. Antennas & Propag., vol. 70, no. 1,
-pp. 472–486, Jan. 2022.
-- [235] J. Zhang et al., “A novel pixel-based reconﬁgurable antenna applied
-in ﬂuid antenna systems with high switching speed,” IEEE Open J.
-Antennas & Propag., early access, doi:10.1109/OJAP.2024.3489215,
-2024.
-- [236] 3GPP TSG#103, “RP-240823 Additional considerations for 6G time-
-line," March 2024.
-- [237] S. Dash, C. Psomas, and I. Krikidis, “Selection of metallic liquid in
-sub-6 GHz antenna design for 6G networks,” Sci. Rep., vol. 13, no. 1,
-p. 20551, Nov. 2023.
-- [238] L. Tlebaldiyeva, S. Arzykulov, K. M. Rabie, X. Li, and G. Nau-
-ryzbayev, “Outage performance of ﬂuid antenna system (FAS)-aided
-Terahertz communication networks,” in Proc. IEEE Inter. Conf. Com-
-mun., 28 May 2023-1 Jun. 2023, Rome, Italy.
-- [239] D. Serghiou, M. Khalily, T. W. C. Brown, and R. Tafazolli, “Tera-
-hertz channel propagation phenomena, measurement techniques and
-modeling for 6G wireless communication applications: A survey, open
-challenges and future research directions,” IEEE Commun. Surv. & Tut.,
-vol. 24, no. 4, pp. 1957–1996, Fourthquarter 2022.
-- [240] A. Mezghani et al., “Reincorporating circuit theory into information
-theory,” IEEE BITS Inf. Theory Mag., early access, doi:10.1109/
-MBITS.2023.3346329, Dec. 2023.
-- [241] C. Psomas, G. M. Kraidy, K.-K. Wong, and I. Krikidis, “Fluid antenna
-systems with outdated channel estimates,” in Proc. IEEE Inter. Conf.
-Commun., pp. 2970–2975, 28 May 2023-1 Jun. 2023, Rome, Italy.
-- [242] A. Evans, “Latency of ﬂuid antenna systems in mobile devices: Is a
-liquid-metal slug too sluggish?,” in Wellington Faculty Eng. Symp.,
-2023.
-- [243] J. G. Proakis, Digital signal processing: Principles, algorithms, and
-applications, 4th Edition. Pearson Education India, 2007.
-- [244] J. Zhu, Z. Wan, L. Dai, M. Debbah, and H. V. Poor, “Electromagnetic
-information theory: Fundamentals, modeling, applications, and open
-problems,” IEEE Wireless Commun., vol. 31, no. 3, pp. 156–162, Jun.
-2024.
-- [245] A. Pizzo, T. L. Marzetta, and L. Sanguinetti, “Degrees of freedom
-of holographic MIMO channels,” in Proc. IEEE Inter. Workshop Sig.
-Process. Advances Wireless Commun., 26-29 May 2020, Atlanta, GA,
-USA.
-- [246] A. Pizzo, A. d. J. Torres, L. Sanguinetti, and T. L. Marzetta, “Nyquist
-sampling and degrees of freedom of electromagnetic ﬁelds,” IEEE
-Trans. Sig. Process., vol. 70, pp. 3935–3947, Jun. 2022.
-- [247] M. Di Renzo and M. D. Migliore, “Electromagnetic signal and informa-
-tion theory–on electromagnetically consistent communication models
-for the transmission and processing of information,” arXiv preprint,
-arXiv:2311.06661v2, Dec. 2023.
-- [248] L. Jiao, P. Wang, A. Alipour-Fanid, H. Zeng, and K. Zeng, “Enabling
-efﬁcient blockage-aware handover in RIS-assisted mmWave cellular
-networks,” IEEE Trans. Wireless Commun., vol. 21, no. 4, pp. 2243–
-2257, Apr. 2022.
-- [249] R. L. Burden, Numerical analysis.
-Brooks/Cole Cengage Learning,
-2011.
-- [250] J. D. Vega-Sánchez, A. E. López-Ramírez, L. Urquiza-Aguiar, and
-D. P. M. Osorio, “Novel expressions for the outage probability and
-diversity gains in ﬂuid antenna system,” IEEE Wirel. Commun. Lett.,
-vol. 13, no. 2, pp. 372–376, Feb. 2024.
-- [251] J. D. Vega-Sanchez, L. Urquiza-Aguiar, M. C. P. Paredes, and D. P. M.
-Osorio, “A simple method for the performance analysis of ﬂuid
-antenna systems under correlated Nakagami-m fading,” IEEE Wireless
-Commun. Lett., vol. 13, no. 2, pp. 377–381, Feb. 2024.
-- [252] P. D. Alvim et al., “On the performance of ﬂuid antennas systems
-under α-µ fading channels,” IEEE Wireless Commun. Lett., vol. 13,
-no. 1, pp. 108–112, Jan. 2024.
-- [253] L. Tlebaldiyeva, G. Nauryzbayev, S. Arzykulov, A. Eltawil, and
-T. Tsiftsis, “Enhancing QoS through ﬂuid antenna systems over corre-
-lated Nakagami-m fading channels,” in Proc. IEEE Wireless Commun.
-Netw. Conf., pp. 78–83, 10-13 Apr. 2022, Austin, TX, USA.
-- [254] P. Mukherjee, C. Psomas, and I. Krikidis, “On the level crossing rate
-of ﬂuid antenna systems,” in Proc. IEEE Inter. Workshop Sig. Process.
-Advances Wireless Commun., 4-6 Jul. 2022, Oulu, Finland.
-- [255] L. Tlebaldiyeva, S. Arzykulov, A. Dadlani, K. M. Rabie, and G. Nau-
-ryzbayev, “Exploring the performance of ﬂuid antenna system (FAS)-
-aided B5G mmWave networks,” in Proc. IEEE Global Conf. Commun.,
-4-8 Dec. 2023, Kuala Lumpur, Malaysia.
-- [256] X. Lai et al., “On performance of ﬂuid antenna system using maximum
-ratio combining,” IEEE Commun. Lett., vol. 28, no. 2, pp. 402–406,
-Feb. 2024.
-- [257] Z. Chai, K.-K. Wong, K.-F. Tong, Y. Chen, and Y. Zhang, “Performance
-of machine learning aided ﬂuid antenna system with improved spatial
-correlation model,” in Proc. Inter. Conf. 6G Netw., 6-8 Jul. 2022, Paris,
-France.
-- [258] E. Faddoul, Y. Guo, G. M. Kraidy, C. Psomas, and I. Krikidis,
-“Correlation mitigation schemes for index-modulated ﬂuid antenna
-systems,” in Proc. IEEE Global Conf. Commun., 4-8 Dec. 2023, Kuala
-Lumpur, Malaysia.
-- [259] J. Zhu et al., “Index modulation for ﬂuid antenna-assisted MIMO
-communications: System design and performance analysis,” IEEE
-Trans. Wireless Commun., vol. 23, no. 8, pp. 9701–9713, Aug. 2024.
-- [260] Y. Chen, and T. Xu, “Fluid antenna index modulation communications,”
-IEEE Wireless Commun. Lett., vol. 13, no. 4, pp. 1203–1207, Apr.
-2024.
-- [261] E. Faddoul, G. M. Kraidy, C. Psomas, and I. Krikidis, “Advanced chan-
-nel coding designs for index-modulated ﬂuid antenna systems,” IEEE
-Trans. Commun., early access, doi:10.1109/TCOMM.2024.3446616,
-2024.
+(Aven) Wee Kiat New received his Ph.D in Electri-cal Engineering from Universiti Teknologi Malaysia, M.Eng.Sc in Electrical Engineering from University of Malaya and B.IT in Data Communications and Networking from Multimedia University. He was a visiting researcher at Lancaster University and University of Cyprus. He is currently a Research Fellow at the Department of Electronic and Elec-trical Engineering, University College London, UK. His research interests include information theory, optimization, stochastic processes, machine learning, and their applications in emerging areas of communications. He serves as an Associate Editor for IEEE Transactions on Vehicular Technology and as a Guest Editor for the IEEE Journal on Selected Areas in Communications on Fluid Antenna System and Other Next-Generation Reconﬁgurable Antenna Systems for Wireless Communications. He was also the TPC co-chair for the 2024 ICC Workshop on Fluid Antenna Systems for 6G. He was the recipient of the 2021 IEEE Malaysia Comsoc/VTS Best Paper Award, the IEEE Malaysia AP/MTT/EMC Best Paper Awards in 2020, 2021, and 2022, and the 2024 IEEE ISTT Best Paper Award.
 
-50
-- [262] O. Elijah et al., “Intelligent massive MIMO systems for beyond 5G
-networks: An overview and future trends,” IEEE Access, vol. 10,
-pp. 102532–102563, 2022.
-- [263] D. Zhang et al., “Fluid antenna array enhanced over-the-air computa-
-tion,” IEEE Wireless Commun. Lett., vol. 13, no. 6, pp. 1541–1545,
-Jun. 2024.
-- [264] Z. Cheng et al., “Movable antenna-empowered AirComp,” arXiv
-preprint, arXiv:2309.12596, Sept. 2023.
-- [265] B. Smida et al., “Full-duplex wireless for 6G: Progress brings new
-opportunities and challenges,” IEEE J. Select. Areas Commun., vol. 41,
-no. 9, pp. 2729–2750, Sept. 2023.
-- [266] L. Tlebaldiyeva, S. Arzykulov, T. A. Tsiftsis, and G. Nauryzbayev,
-“Full-duplex cooperative NOMA-based mmWave networks with ﬂuid
-antenna system (FAS) receivers,” in Proc. Inter. Balkan Conf. Commun.
-Netw., 5-8 Jun. 2023, Istanbul, Turkey.
-- [267] Y. Xu et al., “Energy efﬁciency maximization under delay-outage
-probability constraints using ﬂuid antenna systems,” in Proc. IEEE
-Statistical Sig. Process. Workshop), pp. 105–109, 2-5 Jul. 2023, Hanoi,
-Vietnam.
-- [268] L. R. Varshney, “Transporting information and energy simultaneously,”
-in Proc. IEEE Inter. Symp. Inf. Theory, pp. 1612–1616, 6-11 Jul. 2008,
-Toronto, ON, Canada.
-- [269] R. Zhang and C. K. Ho, “MIMO broadcasting for simultaneous wireless
-information and power transfer,” IEEE Trans. Wireless Commun.,
-vol. 12, no. 5, pp. 1989–2001, May 2013.
-- [270] Y. Zeng and R. Zhang, “Full-duplex wireless-powered relay with self-
-energy recycling,” IEEE Wireless Commun. Lett., vol. 4, no. 2, pp. 201–
-204, Apr. 2015.
-- [271] X. Lin, H. Yang, Y. Zhao, J. Hu, and K.-K. Wong, “Performance
-analysis of integrated data and energy transfer assisted by ﬂuid antenna
-systems,” arXiv preprint, arXiv:2311.07134v2, Feb. 2024.
-- [272] L. Zhang, H. Yang, Y. Zhao, and J. Hu, “Joint port selection and
-beamforming design for ﬂuid antenna assisted integrated data and
-energy transfer,” IEEE Wireless Commun. Lett., vol. 13, no. 7, pp.
-1833–1837, Jul. 2024.
-- [273] J. A. Zhang et al., “Enabling joint communication and radar sensing
-in mobile networks–A survey,” IEEE Commun. Surv. & Tut., vol. 24,
-no. 1, pp. 306–345, Firstquarter 2022.
-- [274] A. Zhang et al., “Perceptive mobile networks: Cellular networks with
-radio vision via joint communication and radar sensing,” IEEE Veh.
-Technol. Mag., vol. 16, no. 2, pp. 20–30, Jun. 2021.
-- [275] K. T. Selvan and R. Janaswamy, “Fraunhofer and Fresnel distances:
-Uniﬁed derivation for aperture antennas,” IEEE Antennas & Propag.
-Mag., vol. 59, no. 4, pp. 12–15, Aug. 2017.
-- [276] E. Björnson and L. Sanguinetti, “Power scaling laws and near-ﬁeld
-behaviors of massive MIMO and intelligent reﬂecting surfaces,” IEEE
-Open J. Commun. Society, vol. 1, pp. 1306–1324, Sept. 2020.
-- [277] X. Wei and L. Dai, “Channel estimation for extremely large-scale
-massive MIMO: Far-ﬁeld, near-ﬁeld, or hybrid-ﬁeld?,” IEEE Commun.
-Lett., vol. 26, no. 1, pp. 177–181, Jan. 2022.
-- [278] M. Cui, Z. Wu, Y. Lu, X. Wei, and L. Dai, “Near-ﬁeld MIMO
-communications for 6G: Fundamentals, challenges, potentials, and
-future directions,” IEEE Commun. Mag., vol. 61, no. 1, pp. 40–46,
-Jan. 2023.
-- [279] N. J. Myers and R. W. Heath, “InFocus: A spatial coding technique
-to mitigate misfocus in near-ﬁeld LoS beamforming,” IEEE Trans.
-Wireless Commun., vol. 21, no. 4, pp. 2193–2209, Apr. 2022.
-- [280] Z. Wu and L. Dai, “Multiple access for near-ﬁeld communications:
-SDMA or LDMA?,” IEEE J. Select. Areas Commun., vol. 41, no. 6,
-pp. 1918–1935, Jun. 2023.
-- [281] J. Zheng et al., “FAS-assisted NOMA short-packet communication
-systems,” IEEE Trans. Veh. Technol., vol. 73, no. 7, pp. 10732–10737,
-Jul. 2024.
-- [282] K.-K. Wong, C.-B. Chae, and Y. Zhang, “On rate performance of M-
-ary amplitude shift keying compact ultra massive array systems for
-massive connectivity,” IET Elect. Lett., vol. 60, no. 5, Mar. 2024.
-- [283] W. K. New and C. Y. Leow, “Unmanned aerial vehicle (UAV) in future
-communication system,” in Proc. IEEE Asia-Paciﬁc Conf. Commun.,
-pp. 217–222, 11-13 Oct. 2021, Kuala Lumpur, Malaysia.
-- [284] L. Wu, L. Qiu, and X. Liang, “Analysis of RSMA-aided UAV network:
-A stochastic geometry approach,” in Proc. IEEE Veh. Technol. Conf.
-Spring, 19-22 Jun. 2022, Helsinki, Finland.
-- [285] S. Zhang, J. Liu, Z. Shi, J. Wang, and N. Kato, “Design and optimiza-
-tion of RSMA for coexisting HTC/MTC in 6G and future networks,”
-IEEE Trans. Wireless Commun., vol. 22, no. 12, pp. 9533–9548, Dec.
-2023.
-- [286] W. K. New, C. Y. Leow, K. Navaie, and Z. Ding, “Robust non-
-orthogonal multiple access for aerial and ground users,” IEEE Trans.
-Wireless Commun., vol. 19, no. 7, pp. 4793–4805, Jul. 2020.
-- [287] W. K. New, C. Y. Leow, K. Navaie, Y. Sun, and Z. Ding, “Interference-
-aware NOMA for cellular-connected UAVs: Stochastic geometry anal-
-ysis,” IEEE J. Select. Areas Commun., vol. 39, no. 10, pp. 3067–3080,
-Oct. 2021.
-- [288] W. K. New, C. Y. Leow, K. Navaie, Y. Sun, and Z. Ding, “Application
-of NOMA for cellular-connected UAVs: Opportunities and challenges,”
-Science China Information Sciences, vol. 64, pp. 1–14, Apr. 2021.
-- [289] W. K. New, C. Y. Leow, K. Navaie, and Z. Ding, “Aerial-terrestrial
-network NOMA for cellular-connected UAVs,” IEEE Trans. Veh.
-Technol., vol. 71, no. 6, pp. 6559–6573, Jun. 2022.
-- [290] E. Ibrahim, R. Nilsson, and J. van de Beek, “Intelligent reﬂecting
-surfaces for MIMO communications in LoS environments,” in Proc.
-IEEE Wireless Commun. Netw. Conf., 29 Mar.-1 Apr. 2021, Nanjing,
-China.
-- [291] E. Ibrahim, R. Nilsson, and J. van de Beek, “On the position of
-intelligent reﬂecting surfaces,” in Proc. Joint European Conf. Netw.
-Commun. & 6G Summit, pp. 66–71, 8-11 Jun. 2021, Porto, Portugal.
-- [292] S. H. Chae and K. Lee, “Cooperative communication for the rank-
-deﬁcient MIMO interference channel with a reconﬁgurable intelligent
-surface,” IEEE Trans. Wireless Commun., vol. 22, no. 3, pp. 2099–
-2112, Mar. 2023.
-- [293] B. Tang et al., “Fluid antenna enabling secret communications,” IEEE
-Commun. Lett., vol. 27, no. 6, pp. 1491–1495, Jun. 2023.
-- [294] H. Xu et al., “Coding enhanced cooperative jamming for secret
-communication in ﬂuid antenna systems,” IEEE Wireless Commun.
-Lett., vol. 28, no. 9, pp. 1991–1995, Sept. 2024.
-- [295] Z. Cheng et al., “Enabling secure wireless communications via movable
-antennas,” arXiv preprint, arXiv:2312.14018, Dec. 2023.
-- [296] G. Hu, Q. Wu, K. Xu, J. Si, and N. Al-Dhahir, “Secure wireless
-communication via movable-antenna array,” IEEE Sig. Process. Lett.,
-vol. 31, pp. 516–520, 2024.
-- [297] J. D. Vega-Sánchez, L. Urquiza-Aguiar, H. R. C. Mora, N. V. O.
-Garzón, and D. P. M. Osorio, “Fluid antenna system: Secrecy outage
-probability analysis,” IEEE Trans. Veh. Technol., vol. 73, no. 8, pp.
-11458–11469, Aug. 2024.
-- [298] J. Yao et al., “Proactive monitoring via jamming in ﬂuid antenna
-systems,” IEEE Commun. Lett., vol. 28, no. 7, pp. 1698–1702, Jul.
-2024.
-- [299] F. R. Ghadi et al., “On performance of RIS-aided ﬂuid antenna
-systems,” IEEE Wireless Commun. Lett., vol. 13, no. 8, pp. 2175–2179,
-Aug. 2024.
-- [300] B. Tang et al., “Power minimization of multiuser FAS-RIS downlink
-system,” submitted to IEEE Trans. Veh. Technol., 2024.
-- [301] K.-K. Wong, K.-F. Tong, Y. Chen, and Y. Zhang, “Extra-large MIMO
-enabling slow ﬂuid antenna massive access for millimeter-wave bands,”
-Elect. Lett., vol. 58, no. 25, pp. 1016–1018, Dec. 2022.
-- [302] H. Chen et al., “A tutorial on Terahertz-band localization for 6G
-communication systems,” IEEE Commun. Surv. & Tut., vol. 24, no. 3,
-pp. 1780–1815, thirdquarter 2022.
-- [303] C. Han et al., “Terahertz wireless channels: A holistic survey on
-measurement, modeling, and analysis,” IEEE Commun. Surv. & Tut.,
-vol. 24, no. 3, pp. 1670–1707, thirdquarter 2022.
-- [304] A. Sayeed and N. Behdad, “Continuous aperture phased MIMO: Basic
-theory and applications,” in Proc. Annual Allerton Conf. Commun.,
-Control, & Comput., pp. 1196–1203, 29 Sept.-1 Oct. 2010, Monticello,
-IL, USA.
-- [305] Z. Wan, Z. Gao, F. Gao, M. D. Renzo, and M.-S. Alouini, “Terahertz
-massive MIMO with holographic reconﬁgurable intelligent surfaces,”
-IEEE Trans. Commun., vol. 69, no. 7, pp. 4732–4750, Jul. 2021.
-- [306] J. Yuan, H. Q. Ngo, and M. Matthaiou, “Towards large intelligent
-surface (LIS)-based communications,” IEEE Trans. Commun., vol. 68,
-no. 10, pp. 6568–6582, Oct. 2020.
-- [307] Z. Zhang and L. Dai, “Pattern-division multiplexing for multi-user
-continuous-aperture MIMO,” IEEE J. Select. Areas Commun., vol. 41,
-no. 8, pp. 2350–2366, Aug. 2023.
-- [308] O. T. Demir, E. Bjornson, and L. Sanguinetti, “Channel modeling and
-channel estimation for holographic massive MIMO with planar arrays,”
-IEEE Wireless Commun. Lett., vol. 11, no. 5, pp. 997–1001, May 2022.
-- [309] Z. Wan, J. Zhu, and L. Dai, “Can continuous aperture MIMO obtain
-more mutual information than discrete MIMO?,” IEEE Commun. Lett.,
-vol. 27, no. 12, pp. 3185–3189, Dec. 2023.
-- [310] C. She et al., “Deep learning for ultra-reliable and low-latency com-
-munications in 6G networks,” IEEE Netw., vol. 34, no. 5, pp. 219–225,
-Sept./Oct. 2020.
+(Kit) Kai-Kit Wong (M’01-SM’08-F’16) was born in Hong Kong in 1973. He received the BEng, the MPhil, and the PhD degrees, all in Electrical and Electronic Engineering, from the Hong Kong Uni-versity of Science and Technology, Hong Kong, in 1996, 1998, and 2001, respectively. After graduation, he took up academic and research positions at the University of Hong Kong, Hong Kong, Lucent Tech-nologies, Bell-Labs, Holmdel, the Smart Antennas Research Group of Stanford University, USA, and the University of Hull, U.K. Presently he is Chair Professor of Wireless Communications at the Department of Electronic and Electrical Engineering, University College London, U.K. He is Fellow of IEEE and IET. He served as the Editor-in-Chief for IEEE Wireless Communications Letters between 2020 and 2023. He is currently the Subject Editor-in-Chief for Wireless Communications for IET Electronics Letters and also on the Advisory Board of IEEE Communications Letters and the Steering Committee of IEEE Wireless Communications Letters.
 
-51
-- [311] O. Abari, H. Rahul, and D. Katabi, “Over-the-air function computation
-in sensor networks,” arXiv preprint, arXiv:1612.02307, Dec. 2016.
-- [312] G. Zhu, J. Xu, K. Huang, and S. Cui, “Over-the-air computing for
-wireless data aggregation in massive IoT,” IEEE Wireless Commun.,
-vol. 28, no. 4, pp. 57–65, Aug. 2021.
-- [313] Q. Qi, X. Chen, C. Zhong, and Z. Zhang, “Integration of energy,
-computation and communication in 6G cellular internet of things,”
-IEEE Commun. Lett., vol. 24, no. 6, pp. 1333–1337, Jun. 2020.
-- [314] M. Goldenbaum, H. Boche, and S. Sta´nczak, “Nomographic functions:
-Efﬁcient computation in clustered Gaussian sensor networks,” IEEE
-Trans. Wireless Commun., vol. 14, no. 4, pp. 2093–2105, Apr. 2015.
-- [315] B. Nazer and M. Gastpar, “Computation over multiple-access chan-
-nels,” IEEE Trans. Inform. Theory, vol. 53, no. 10, pp. 3498–3516,
-Oct. 2007.
-- [316] Y. Zuo et al., “Fluid antenna for mobile edge computing,” IEEE
-Commun. Lett., vol. 28, no. 7, pp. 1728–1732, Jul. 2024.
-(Aven) Wee Kiat New received his Ph.D in Electri-
-cal Engineering from Universiti Teknologi Malaysia,
-M.Eng.Sc in Electrical Engineering from University
-of Malaya and B.IT in Data Communications and
-Networking from Multimedia University. He was
-a visiting researcher at Lancaster University and
-University of Cyprus. He is currently a Research
-Fellow at the Department of Electronic and Elec-
-trical Engineering, University College London, UK.
-His research interests include information theory,
-optimization, stochastic processes, machine learning,
-and their applications in emerging areas of communications. He serves as an
-Associate Editor for IEEE Transactions on Vehicular Technology and as a
-Guest Editor for the IEEE Journal on Selected Areas in Communications on
-Fluid Antenna System and Other Next-Generation Reconﬁgurable Antenna
-Systems for Wireless Communications. He was also the TPC co-chair for the
-2024 ICC Workshop on Fluid Antenna Systems for 6G. He was the recipient of
-the 2021 IEEE Malaysia Comsoc/VTS Best Paper Award, the IEEE Malaysia
-AP/MTT/EMC Best Paper Awards in 2020, 2021, and 2022, and the 2024
-IEEE ISTT Best Paper Award.
-(Kit) Kai-Kit Wong (M’01-SM’08-F’16) was born
-in Hong Kong in 1973. He received the BEng, the
-MPhil, and the PhD degrees, all in Electrical and
-Electronic Engineering, from the Hong Kong Uni-
-versity of Science and Technology, Hong Kong, in
-1996, 1998, and 2001, respectively. After graduation,
-he took up academic and research positions at the
-University of Hong Kong, Hong Kong, Lucent Tech-
-nologies, Bell-Labs, Holmdel, the Smart Antennas
-Research Group of Stanford University, USA, and
-the University of Hull, U.K. Presently he is Chair
-Professor of Wireless Communications at the Department of Electronic and
-Electrical Engineering, University College London, U.K. He is Fellow of IEEE
-and IET. He served as the Editor-in-Chief for IEEE Wireless Communications
-Letters between 2020 and 2023. He is currently the Subject Editor-in-Chief
-for Wireless Communications for IET Electronics Letters and also on the
-Advisory Board of IEEE Communications Letters and the Steering Committee
-of IEEE Wireless Communications Letters.
-Hao Xu (S’15-M’19) received the B.S. degree in
-communication engineering from Nanjing Univer-
-sity of Science and Technology, Nanjing, China,
-in 2013, and the Ph.D. degree in information and
-communication engineering with the National Mo-
-bile Communications Research Laboratory, South-
-east University, Nanjing, China, in 2019. From 2019
-to 2021, he was an Alexander von Humboldt (AvH)
-Post-Doctoral Research Fellow with the Faculty of
-Electrical Engineering and Computer Science at
-the Technical University of Berlin, Germany. He
-is currently a Marie Sklodowska-Curie Actions (MSCA) Individual Fellow
-with the Department of Electronic and Electrical Engineering, University
-College London, UK. His research interests mainly include information theory,
-mathematical optimization, MIMO systems, and physical layer security in
-wireless networks.
-Chao Wang (M’20) received the B.S., M. S. and
-Ph.D. degrees, in information and communication
-engineering from Xi?an Jiaotong University, Xi?an,
-China, in 2008, 2013, and 2016, respectively. He
-is currently an Associate Professor with the State
-Key Laboratory of Integrated Services Networks,
-School of Telecommunications Engineering, Xidian
-University. His current research interests include
-5G & 6G wireless networks and key technologies,
-physical-layer security, covert communications, and
-deep learning and its application in the optimization
-of wireless communications . He was a recipient of the Excellent Doctoral
-Dissertation Award of Shaanxi Province in 2018 and China Institute of
-Communications in 2016, the Best Paper Awards at the IEEE ICCC 2014
-and IEEE SAGC 2020, respectively.
-Farshad Rostami Ghadi (Member IEEE) received
-his Ph.D. degree (Hons.) in electrical communication
-systems engineering from the Ferdowsi University of
-Mashhad, Mashhad, Iran, in 2021. He was a Post-
-doctoral Research Fellow with the Department of
-Communication Engineering, University of Malaga,
-Malaga, Spain, in 2021. He is currently a Re-
-search Fellow with the Department of Electronic and
-Electrical Engineering, University College London,
-London, UK. His main research interests include
-analyzing wireless communication systems, network
-information theory, and copula theory, with an emphasis on wireless channel
-modeling and physical layer security. He has received the Best Paper Award
-at the IEEE ISTT 2024.
-Jichen Zhang (Graduate Student Member, IEEE)
-received his B.Eng. degree in communication en-
-gineering from the Harbin Institute of Technology,
-Shenzhen, China, in 2023. He is currently pursuing
-the Ph.D. degree at the Department of Electronic
-and Computer Engineering, the Hong Kong Uni-
-versity of Science and Technology, Hong Kong.
-His research interests include ﬂuid antenna systems,
-reconﬁgurable antennas, MIMO systems, and lens
-antennas. He won the Best Student Paper Award in
-IEEE APCAP 2023.
+Hao Xu (S’15-M’19) received the B.S. degree in communication engineering from Nanjing Univer-sity of Science and Technology, Nanjing, China, in 2013, and the Ph.D. degree in information and communication engineering with the National Mo-bile Communications Research Laboratory, South-east University, Nanjing, China, in 2019. From 2019 to 2021, he was an Alexander von Humboldt (AvH) Post-Doctoral Research Fellow with the Faculty of
+Electrical Engineering and Computer Science at the Technical University of Berlin, Germany. He is currently a Marie Sklodowska-Curie Actions (MSCA) Individual Fellow with the Department of Electronic and Electrical Engineering, University College London, UK. His research interests mainly include information theory, mathematical optimization, MIMO systems, and physical layer security in wireless networks.
 
-52
-Junhui Rao (Member, IEEE) received his B.Eng.
-degree from the University of Electronic Science
-and Technology of China in Chengdu, China, in
-2020 and his Ph.D. degree from the Department of
-Electronic and Computer Engineering at The Hong
-Kong University of Science and Technology in 2024,
-where he is currently a Post-Doctoral Fellow. His
-research interests include reconﬁgurable intelligent
-surfaces, microwave circuits, MIMO systems, mil-
-limeter waves, and 6G technology. Dr. Rao has
-been recognized with several prestigious fellowships
-and awards at national, international, and university levels, including the
-distinguished IEEE Antennas and Propagation Society Fellowship (IEEE
-APSF Award 2023) and HONORABLE MENTION award in IEEE AP-
-S/URSI 2024.
-Ross Murch (S’84-M’90-SM’98-F’09) received the
-bachelor’s and Ph.D. degrees in Electrical and Elec-
-tronic Engineering from the University of Canter-
-bury, New Zealand.
-He is currently a Chair Professor in the Depart-
-ment of Electronic and Computer Engineering and
-a Senior Fellow at the Institute of Advanced Study
-both at the Hong Kong University of Science and
-Technology (HKUST). He is known for his research
-on multiple antenna technology including multiuser-
-MIMO, compact multiport antennas and multiport
-energy harvesting. His current research focus is creating new RF wave
-technology for making a better world and this includes RF imaging, energy
-harvesting, electromagnetic information theory, 6G, IoT, multiport antenna
-systems and reconﬁgurable intelligent surfaces. His unique expertise lies in
-his combination of knowledge from both wireless communication systems and
-electromagnetics and he publishes in both areas. For example, he has more
-than 50 journal papers in IEEE Transactions on Antennas and Propagation,
-40 journal papers in IEEE Transactions on Wireless Communications from
-over 200 journal paper publications and 20 patents that have attracted 20,000+
-citations. Prof. Murch has also successfully supervised more than 50 research
-students, enjoys teaching and has won ﬁve teaching awards.
-Prof. Murch was Department Head at HKUST from 2009-2015, is an
-IEEE, IET, HKAE, HKIE and NASI Fellow. He has been a David Bensted
-Fellow, Simon Fraser University, Canada, an HKTIIT fellow at Southampton
-University, U.K and has spent sabbaticals at MIT, USA; AT&T, USA; Allgon
-Mobile Communications, Sweden; Imperial College London. He was awarded
-the IEEE Communications Society Wireless Communications Technical Com-
-mittee Recognition Award in 2023. He has served IEEE in various positions
-including IEEE area editor, technical program chair, distinguished lecturer and
-Fellow evaluation committee.
-Professor Ross Murch joined HKUST in 1992 as an Assistant Professor and
-has remained at HKUST in Hong Kong since then, where he is now a Chair
-Professor. From 1990–1992 he was a Post-Doctoral Fellow at the Department
-of Mathematics and Computer Science, University of Dundee, UK.
-Pablo Ramírez-Espinosa received the M.Sc. and
-Ph.D. degrees in telecommunication engineering
-from the University of Málaga, Spain, in 2017 and
-2020, respectively. From 2020 to 2022, he was
-a Post-Doctoral Researcher with the Connectivity
-Section, Department of Electronic Systems, Aalborg
-University, Denmark. From 2022 to 2024, he was a
-“Maria Zambrano” Post-Doctoral Fellow (National-
-Funded) with the University of Granada, Spain. In
-2018, he was a Visiting Researcher with Queen?s
-University Belfast. He is currently an MSCA Post-
-Doctoral Fellow with the Telecommunications Research Institute (TELMA),
-University of Málaga. His main research interests include wireless commu-
-nications, particularly dynamic metasurface antennas, ﬂuid antennas, ultra-
-reliable low-latency communications, and channel modeling.
-David Morales-Jimenez (M’13-SM’19) is an RyC
-Research Professor with the Department of Signal
-Theory, Networking and Communications at Univer-
-sity of Granada (Spain). He received the M.Sc. and
-Ph.D. degrees in Telecommunication Technologies
-from University of Malaga (Spain) in 2008 and
-2011, respectively. Between 2011 and 2013 he was
-a Postdoctoral Fellow at Universitat Pompeu Fabra
-(Barcelona, Spain). He then joined the Hong Kong
-University of Science and Technology (HKUST),
-ﬁrst as Visiting Scholar (2014–2016) and then as Re-
-search Assistant Professor (2016–2018) with the Department of Electronic and
-Computer Engineering. He was a Lecturer (Assistant Professor) at Queen?s
-University Belfast (2018–2021) and an Associate Professor at University of
-Malaga (2021–2022). He also held visiting appointments at University College
-London (Electronic and Electrical Engineering, 2010) and at Stanford Uni-
-versity (Statistics Department, 2015). His research interests include statistical
-signal processing, random matrix theory, and high-dimensional statistics, with
-multidisciplinary applications to wireless communications and computational
-biology.
-Prof. Morales is a Senior Area Editor of the IEEE Transactions on
-Signal Processing and an Elected Member of the IEEE Technical Committee
-on Signal Processing for Communications and Networking (SPCOM). He
-received the Best Ph.D. Thesis Award in Electrical and Computer Engineering
-by the University of Malaga. He and his coauthors received the Best ‘Statistica
-Sinica’ paper award at Joint Statistical Meetings 2020. He was a Poster Co-
-Chair of the IEEE Communication Theory Workshop 2022 and a General
-Co-Chair of the IEEE Spanish Workshop on Signal Processing, Information
-Theory and Communications 2022.
-Chan-Byoung Chae (S’06-M’09-SM’12-F’21) is an
-Underwood Distinguished Professor in the School
-of Integrated Technology, Yonsei University, Korea.
-Before joining Yonsei University, he was with Bell
-Labs, Alcatel-Lucent, Murray Hill, NJ, USA from
-2009 to 2011, as a Member of Technical Staff,
-and Harvard University, Cambridge, MA, USA from
-2008 to 2009, as a Postdoctoral Research Fellow. He
-received his Ph.D. degree in Electrical & Computer
-Engineering from The University of Texas at Austin
-in 2008. Prior to joining UT, he was a research
-engineer at the Telecommunications R&D Center, Samsung Electronics,
-Suwon, Korea, from 2001 to 2005.
-He has been an Editor-in-Chief of the IEEE Trans. Molecular, Biological,
-and Multi-scale Communications (2019-2022) and a Senior Editor of the IEEE
-Wireless Communications Letters (2020-present). He has served/serves as an
-Editor for the IEEE Communications Magazine (2016-present), the IEEE
-Trans. on Wireless Communications (2012-2017), and the IEEE Wireless
-Communications Letters (2016-present). He is an IEEE ComSoc Distin-
-guished Lecturer for the term 2020-2021 and 2022-2023.
-He was the recipient/co-recipient of the CES Innovation Award in 2023,
-the IEEE ICC Best Demo Award in 2022, the IEEE WCNC Best Demo
-Award in 2020, the Best Young Engineer Award from the National Academy
-of Engineering of Korea (NAEK) in 2019, the IEEE DySPAN Best Demo
-Award in 2018, the IEEE/KICS Journal of Communications and Networks
-Best Paper Award in 2018, the IEEE INFOCOM Best Demo Award in 2015,
-the IEIE/IEEE Joint Award for Young IT Engineer of the Year in 2014, the
-KICS Haedong Young Scholar Award in 2013, the IEEE Signal Processing
-Magazine Best Paper Award in 2013, the IEEE ComSoc AP Outstanding
-Young Researcher Award in 2012, the IEEE VTS Dan. E. Noble Fellowship
-Award in 2008.
+Chao Wang (M’20) received the B.S., M. S. and Ph.D. degrees, in information and communication engineering from Xi?an Jiaotong University, Xi?an, China, in 2008, 2013, and 2016, respectively. He is currently an Associate Professor with the State Key Laboratory of Integrated Services Networks, School of Telecommunications Engineering, Xidian University. His current research interests include 5G & 6G wireless networks and key technologies, physical-layer security, covert communications, and deep learning and its application in the optimization of wireless communications . He was a recipient of the Excellent Doctoral Dissertation Award of Shaanxi Province in 2018 and China Institute of Communications in 2016, the Best Paper Awards at the IEEE ICCC 2014 and IEEE SAGC 2020, respectively.
 
-53
-Kin-Fai Tong is a Full Professor of Antennas and
-Applied Electromagnetics at the Department of Elec-
-tronic and Electrical Engineering of UCL. During his
-PhD research, he was credited with being one of the
-ﬁrst to introduce the idea of embedding microstrip
-patch antennas into mobile phone handsets. As an
-Expert Researcher in the Photonic and Millimetre-
-wave Devices Group of the National Institute of In-
-formation and Communications Technology, Japan,
-he worked on novel wideband photonic antennas at
-38 GHz and 60 GHz. Prof. Tong is a Fellow of IEEE,
-Chartered Engineer of UK Engineering Council, Fellow of Electromagnetic
-Academy US and Fellow of Higher Education Academy UK. His Innovate UK
-project was graded as ?OUTSTANDING?, i.e., the top 5%, amongst all the
-funded projects. Recently, his AgriTech Internet-of-Thing (IoT) Hub project
-supported by EPSRC has resulted in two start-up companies and winning
-the UCL Provost?s Spirit of Enterprise Award. Prof Tong was the general
-chairman of the IEEE iWEM 2017 held in UK, the Lead Guest Editor of the
-IEEE OJAP Special Section, the Subject Editor of IET Electronics Letters,
-Associate Editor of IEEE AWPL.
+Farshad Rostami Ghadi (Member IEEE) received his Ph.D. degree (Hons.) in electrical communication systems engineering from the Ferdowsi University of Mashhad, Mashhad, Iran, in 2021. He was a Post-doctoral Research Fellow with the Department of Communication Engineering, University of Malaga, Malaga, Spain, in 2021. He is currently a Re-search Fellow with the Department of Electronic and Electrical Engineering, University College London, London, UK. His main research interests include analyzing wireless communication systems, network information theory, and copula theory, with an emphasis on wireless channel modeling and physical layer security. He has received the Best Paper Award at the IEEE ISTT 2024. 
+
+Jichen Zhang (Graduate Student Member, IEEE) received his B.Eng. degree in communication en-gineering from the Harbin Institute of Technology, Shenzhen, China, in 2023. He is currently pursuing the Ph.D. degree at the Department of Electronic and Computer Engineering, the Hong Kong Uni-versity of Science and Technology, Hong Kong. His research interests include ﬂuid antenna systems, reconﬁgurable antennas, MIMO systems, and lens antennas. He won the Best Student Paper Award in IEEE APCAP 2023.
+
+
+Junhui Rao (Member, IEEE) received his B.Eng. degree from the University of Electronic Science and Technology of China in Chengdu, China, in 2020 and his Ph.D. degree from the Department of Electronic and Computer Engineering at The Hong Kong University of Science and Technology in 2024, where he is currently a Post-Doctoral Fellow. His research interests include reconﬁgurable intelligent surfaces, microwave circuits, MIMO systems, mil-limeter waves, and 6G technology. Dr. Rao has been recognized with several prestigious fellowships and awards at national, international, and university levels, including the distinguished IEEE Antennas and Propagation Society Fellowship (IEEE APSF Award 2023) and HONORABLE MENTION award in IEEE AP-S/URSI 2024. 
+
+Ross Murch (S’84-M’90-SM’98-F’09) received the bachelor’s and Ph.D. degrees in Electrical and Elec-tronic Engineering from the University of Canter-bury, New Zealand. He is currently a Chair Professor in the Depart-ment of Electronic and Computer Engineering and a Senior Fellow at the Institute of Advanced Study both at the Hong Kong University of Science and Technology (HKUST). He is known for his research on multiple antenna technology including multiuser-MIMO, compact multiport antennas and multiport energy harvesting. His current research focus is creating new RF wave technology for making a better world and this includes RF imaging, energy harvesting, electromagnetic information theory, 6G, IoT, multiport antenna systems and reconﬁgurable intelligent surfaces. His unique expertise lies in his combination of knowledge from both wireless communication systems and electromagnetics and he publishes in both areas. For example, he has more than 50 journal papers in IEEE Transactions on Antennas and Propagation, 40 journal papers in IEEE Transactions on Wireless Communications from over 200 journal paper publications and 20 patents that have attracted 20,000+ citations. Prof. Murch has also successfully supervised more than 50 research students, enjoys teaching and has won ﬁve teaching awards. Prof. Murch was Department Head at HKUST from 2009-2015, is an IEEE, IET, HKAE, HKIE and NASI Fellow. He has been a David Bensted Fellow, Simon Fraser University, Canada, an HKTIIT fellow at Southampton University, U.K and has spent sabbaticals at MIT, USA; AT&T, USA; Allgon Mobile Communications, Sweden; Imperial College London. He was awarded the IEEE Communications Society Wireless Communications Technical Com-mittee Recognition Award in 2023. He has served IEEE in various positions including IEEE area editor, technical program chair, distinguished lecturer and Fellow evaluation committee.
+
+Professor Ross Murch joined HKUST in 1992 as an Assistant Professor and has remained at HKUST in Hong Kong since then, where he is now a Chair Professor. From 1990–1992 he was a Post-Doctoral Fellow at the Department of Mathematics and Computer Science, University of Dundee, UK. Pablo Ramírez-Espinosa received the M.Sc. and Ph.D. degrees in telecommunication engineering from the University of Málaga, Spain, in 2017 and 2020, respectively. From 2020 to 2022, he was a Post-Doctoral Researcher with the Connectivity Section, Department of Electronic Systems, Aalborg University, Denmark. From 2022 to 2024, he was a “Maria Zambrano” Post-Doctoral Fellow (National-Funded) with the University of Granada, Spain. In 2018, he was a Visiting Researcher with Queen?s University Belfast. He is currently an MSCA Post-Doctoral Fellow with the Telecommunications Research Institute (TELMA), University of Málaga. His main research interests include wireless commu-nications, particularly dynamic metasurface antennas, ﬂuid antennas, ultra-reliable low-latency communications, and channel modeling. David Morales-Jimenez (M’13-SM’19) is an RyC Research Professor with the Department of Signal Theory, Networking and Communications at Univer-sity of Granada (Spain). He received the M.Sc. and Ph.D. degrees in Telecommunication Technologies from University of Malaga (Spain) in 2008 and 2011, respectively. Between 2011 and 2013 he was a Postdoctoral Fellow at Universitat Pompeu Fabra (Barcelona, Spain). He then joined the Hong Kong University of Science and Technology (HKUST), ﬁrst as Visiting Scholar (2014–2016) and then as Re-search Assistant Professor (2016–2018) with the Department of Electronic and Computer Engineering. He was a Lecturer (Assistant Professor) at Queen's University Belfast (2018–2021) and an Associate Professor at University of Malaga (2021–2022). He also held visiting appointments at University College London (Electronic and Electrical Engineering, 2010) and at Stanford Uni-versity (Statistics Department, 2015). His research interests include statistical signal processing, random matrix theory, and high-dimensional statistics, with multidisciplinary applications to wireless communications and computational biology.
+
+Prof. Morales is a Senior Area Editor of the IEEE Transactions on Signal Processing and an Elected Member of the IEEE Technical Committee on Signal Processing for Communications and Networking (SPCOM). He received the Best Ph.D. Thesis Award in Electrical and Computer Engineering by the University of Malaga. He and his coauthors received the Best ‘Statistica Sinica’ paper award at Joint Statistical Meetings 2020. He was a Poster Co-
+Chair of the IEEE Communication Theory Workshop 2022 and a General Co-Chair of the IEEE Spanish Workshop on Signal Processing, Information Theory and Communications 2022. Chan-Byoung Chae (S’06-M’09-SM’12-F’21) is an
+Underwood Distinguished Professor in the School of Integrated Technology, Yonsei University, Korea. Before joining Yonsei University, he was with Bell Labs, Alcatel-Lucent, Murray Hill, NJ, USA from 2009 to 2011, as a Member of Technical Staff, and Harvard University, Cambridge, MA, USA from 2008 to 2009, as a Postdoctoral Research Fellow. He received his Ph.D. degree in Electrical & Computer Engineering from The University of Texas at Austin in 2008. Prior to joining UT, he was a research engineer at the Telecommunications R&D Center, Samsung Electronics, Suwon, Korea, from 2001 to 2005. He has been an Editor-in-Chief of the IEEE Trans. Molecular,  Biological, and Multi-scale Communications (2019-2022) and a Senior Editor of the IEEE Wireless Communications Letters (2020-present). He has served/serves as an Editor for the IEEE Communications Magazine (2016-present), the IEEE Trans. on Wireless Communications (2012-2017), and the IEEE Wireless Communications Letters (2016-present). He is an IEEE ComSoc Distin-guished Lecturer for the term 2020-2021 and 2022-2023. He was the recipient/co-recipient of the CES Innovation Award in 2023, the IEEE ICC Best Demo Award in 2022, the IEEE WCNC Best Demo Award in 2020, the Best Young Engineer Award from the National Academy of Engineering of Korea (NAEK) in 2019, the IEEE DySPAN Best Demo Award in 2018, the IEEE/KICS Journal of Communications and Networks Best Paper Award in 2018, the IEEE INFOCOM Best Demo Award in 2015, the IEIE/IEEE Joint Award for Young IT Engineer of the Year in 2014, the KICS Haedong Young Scholar Award in 2013, the IEEE Signal Processing Magazine Best Paper Award in 2013, the IEEE ComSoc AP Outstanding Young Researcher Award in 2012, the IEEE VTS Dan. E. Noble Fellowship Award in 2008.
+
+
+Kin-Fai Tong is a Full Professor of Antennas and Applied Electromagnetics at the Department of Elec-tronic and Electrical Engineering of UCL. During his PhD research, he was credited with being one of the ﬁrst to introduce the idea of embedding microstrip patch antennas into mobile phone handsets. As an Expert Researcher in the Photonic and Millimetre-wave Devices Group of the National Institute of In-formation and Communications Technology, Japan, he worked on novel wideband photonic antennas at 38 GHz and 60 GHz. Prof. Tong is a Fellow of IEEE, Chartered Engineer of UK Engineering Council, Fellow of Electromagnetic Academy US and Fellow of Higher Education Academy UK. His Innovate UK project was graded as ?OUTSTANDING?, i.e., the top 5%, amongst all the funded projects. Recently, his AgriTech Internet-of-Thing (IoT) Hub project supported by EPSRC has resulted in two start-up companies and winning the UCL Provost?s Spirit of Enterprise Award. Prof Tong was the general chairman of the IEEE iWEM 2017 held in UK, the Lead Guest Editor of the IEEE OJAP Special Section, the Subject Editor of IET Electronics Letters, Associate Editor of IEEE AWPL.
 
