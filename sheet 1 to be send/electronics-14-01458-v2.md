@@ -12823,7 +12823,7 @@ ports w
 
 ### Section VIII: Promising Research Directions in FAS (extracted)
 
-```text
+
 VIII. PROMISING RESEARCH DIRECTIONS IN FAS
 This section is dedicated to the discussion of new challenges
 as well as the promising research directions in FAS. We will
@@ -13410,7 +13410,7 @@ permitting heavy channel coding and interference-rich. In this
 case, FAS can be an essential tool to provide some immunity.
 In summary, there are many uncharted territories that involve
 FAS but are not mentioned in this article.
-```
+
 
 ## Citations and References
 
@@ -13438,8 +13438,7 @@ REFERENCES section begins on page 44.
 - [20] M. Giordani and M. Zorzi, “Non-terrestrial networks in the 6G era: Challenges and opportunities,” IEEE Netw., vol. 35, no. 2, pp. 244–251, Mar./Apr. 2021.
 - [21] C. Huang, A. Zappone, G. C. Alexandropoulos, M. Debbah and C. Yuen, “Reconﬁgurable intelligent surfaces for energy efﬁciency in wireless communication,” IEEE Trans. Wireless Commun., vol. 18, no. 8, pp. 4157–4170, Aug. 2019.
 - [22] E. Basar et al., “Wireless communications through reconﬁgurable intelligent surfaces,” IEEE Access, vol. 7, pp. 116753–116773, 2019.
-- [23] M. Di Renzo et al., “Smart radio environments empowered by recon-ﬁgurable intelligent surfaces: How it works, state of research, and the road ahead,” IEEE J. Select. Areas Commun., vol. 38, no. 11, pp. 2450–
-2525, Nov. 2020.
+- [23] M. Di Renzo et al., “Smart radio environments empowered by recon-ﬁgurable intelligent surfaces: How it works, state of research, and the road ahead,” IEEE J. Select. Areas Commun., vol. 38, no. 11, pp. 2450–2525, Nov. 2020.
 - [24] T. S. Rappaport et al., “Wireless communications and applications above 100 GHz: Opportunities and challenges for 6G and beyond,” IEEE Access, vol. 7, pp. 78729–78757, 2019.
 - [25] V. Petrov, T. Kurner and I. Hosako, “IEEE 802.15.3d: First standardiza-tion efforts for sub-terahertz band communications toward 6G,” IEEE Commun. Mag., vol. 58, no. 11, pp. 28–33, Nov. 2020.
 - [26] Z. Wang et al., “Extremely large-scale MIMO: Fundamentals, chal-lenges, solutions, and future directions,” IEEE Wireless Commun., vol. 31, no. 3, pp. 117–124, Jun. 2024.
@@ -13461,14 +13460,12 @@ REFERENCES section begins on page 44.
 - [42] B. Cetiner et al., “Multifunctional reconﬁgurable MEMS integrated antennas for adaptive MIMO systems,” IEEE Commun. Mag., vol. 42, no. 12, pp. 62–70, Dec. 2004.
 - [43] A. Grau Besoli and F. De Flaviis, “A multifunctional reconﬁgurable pixeled antenna using MEMS technology on printed circuit board,” IEEE Trans. Antennas & Propag., vol. 59, no. 12, pp. 4413–4424, Dec. 2011.
 - [44] S. Song and R. D. Murch, “An efﬁcient approach for optimizing frequency reconﬁgurable pixel antennas using genetic algorithms,” IEEE Trans. Antennas & Propag., vol. 62, no. 2, pp. 609–620, Feb. 2014.
-- [45] T. V. Hoang, V. Fusco, M. A. B. Abbasi, and O. Yurduseven, “Single-pixel polarimetric direction of arrival estimation using programmable coding metasurface aperture,” Scientiﬁc Rep., vol. 11, no. 1, p. 23830,
-Dec. 2021.
+- [45] T. V. Hoang, V. Fusco, M. A. B. Abbasi, and O. Yurduseven, “Single-pixel polarimetric direction of arrival estimation using programmable coding metasurface aperture,” Scientiﬁc Rep., vol. 11, no. 1, p. 23830, Dec. 2021.
 - [46] L. Jing, M. Li, and R. Murch, “Compact pattern reconﬁgurable pixel antenna with diagonal pixel connections,” IEEE Trans. Antennas & Propag., vol. 70, no. 10, pp. 8951–8961, Oct. 2022.
 - [47] J. Hejres, “Null steering in phased arrays by controlling the positions of selected elements,” IEEE Trans. Antennas & Propag., vol. 52, no. 11, pp. 2891–2895, Nov. 2004.
 - [48] S. Basbug, “Design and synthesis of antenna array with movable elements along semicircular paths,” IEEE Antennas & Wireless Propag. Lett., vol. 16, pp. 3059–3062, Oct. 2017.
 - [49] M. C. Johnson, S. L. Brunton, N. B. Kundtz, and J. N. Kutz, “Sidelobe canceling for reconﬁgurable holographic metamaterial antenna,” IEEE Trans. Antennas & Propag., vol. 63, no. 4, pp. 1881–1886, Apr. 2015.
-- [50] O. Yurduseven, D. L. Marks, T. Fromenteze, and D. R. Smith, “Dynam-ically reconﬁgurable holographic metasurface aperture for a mills-cross monochromatic microwave camera,” Opt. Express, vol. 26, pp. 5281–
-5291, Mar. 2018.
+- [50] O. Yurduseven, D. L. Marks, T. Fromenteze, and D. R. Smith, “Dynam-ically reconﬁgurable holographic metasurface aperture for a mills-cross monochromatic microwave camera,” Opt. Express, vol. 26, pp. 5281–5291, Mar. 2018.
 - [51] K. K. Wong, A. Shojaeifard, K.-F. Tong, and Y. Zhang, “Performance limits of ﬂuid antenna systems,” IEEE Commun. Lett., vol. 24, no. 11, pp. 2469–2472, Nov. 2020.
 - [52] K.-K. Wong, A. Shojaeifard, K.-F. Tong, and Y. Zhang, “Fluid antenna systems,” IEEE Trans. Wireless Commun., vol. 20, no. 3, pp. 1950–1962, Mar. 2021.
 - [53] S. Lee, Be Water, My Friend: The Teachings of Bruce Lee. Flatiron Books, 2020.
@@ -13504,8 +13501,7 @@ Dec. 2021.
 - [83] A. Shojaeifard et al., “MIMO evolution beyond 5G through recon-ﬁgurable intelligent surfaces and ﬂuid antenna systems,” Proc. IEEE, vol. 110, no. 9, pp. 1244–1265, Sept. 2022.
 - [84] K.-K. Wong, W. K. New, X. Hao, K.-F. Tong, and C.-B. Chae, “Fluid antenna system–part I: Preliminaries,” IEEE Commun. Lett., vol. 27, no. 8, pp. 1919–1923, Aug. 2023.
 - [85] K.-K. Wong, K.-F. Tong, and C.-B. Chae, “Fluid antenna system–part II: Research opportunities,” IEEE Commun. Lett., vol. 27, no. 8, pp. 1924–1928, Aug. 2023.
-- [86] K.-K. Wong, K.-F. Tong, and C.-B. Chae, “Fluid antenna system–part III: A new paradigm of distributed artiﬁcial scattering surfaces for massive connectivity,” IEEE Commun. Lett., vol. 27, no. 8, pp. 1929–
-1933, Aug. 2023.
+- [86] K.-K. Wong, K.-F. Tong, and C.-B. Chae, “Fluid antenna system–part III: A new paradigm of distributed artiﬁcial scattering surfaces for massive connectivity,” IEEE Commun. Lett., vol. 27, no. 8, pp. 1929–1933, Aug. 2023.
 - [87] N. C. Beaulieu and K. T. Hemachandra, “Novel simple representations for Gaussian class multivariate distributions with generalized correla-tion,” IEEE Trans. Inf. Theory, vol. 57, no. 12, pp. 8072–8083, Dec. 2011.
 - [88] K. Wong, K. Tong, Y. Chen, and Y. Zhang, “Closed-form expressions for spatial correlation parameters for performance analysis of ﬂuid antenna systems,” Elect. Lett., vol. 58, no. 11, pp. 454–457, Apr. 2022.
 - [89] M. Khammassi, A. Kammoun, and M.-S. Alouini, “A new analytical approximation of the ﬂuid antenna system channel,” IEEE Trans. Wireless Commun., vol. 22, no. 12, pp. 8843–8858, Dec. 2023.
@@ -13542,8 +13538,6 @@ Dec. 2021.
 - [120] X. Shao, Q. Jiang, and R. Zhang, “6d movable antenna based on user distribution: Modeling and optimization,” arXiv preprint, arXiv:2403.08123v3, Mar. 2024.
 - [121] X. Shao, R. Zhang, Q. Jiang, and R. Schober, “6d movable antenna enhanced wireless network via discrete position and rotation optimiza-tion,” arXiv preprint, arXiv:2403.17122, Mar. 2024.
 - [122] S. Zhang et al., “Fast port selection using temporal and spatial correlation for ﬂuid antenna systems,” in Proc. IEEE Statistical Sig.Process. Workshop, pp. 95–99, 2-5 Jul. 2023, Hanoi, Vietnam.
-
-47
 - [123] H. Xu et al., “Capacity maximization for FAS-assisted multiple access channels,” arXiv preprint, arXiv:2311.11037, Nov. 2023.
 - [124] C. Wang et al., “Fluid antenna system liberating multiuser MIMO for ISAC via deep reinforcement learning,” IEEE Trans. Wireless Commun., vol. 23, no. 9, pp. 10879–10894, Sept. 2024.
 - [125] W. K. New, K.-K. Wong, H. Xu, K.-F. Tong, and C.-B. Chae, “Achievability of ﬂuid antenna multiple access: A Han-Kobayashi’s comparison,” in Proc. IEEE Global Conf. Commun. Workshop Next Generation Multiple Access, 4-8 Dec. 2023, Kuala Lumpur, Malaysia.
@@ -13756,9 +13750,12 @@ Jichen Zhang (Graduate Student Member, IEEE) received his B.Eng. degree in commu
 
 Junhui Rao (Member, IEEE) received his B.Eng. degree from the University of Electronic Science and Technology of China in Chengdu, China, in 2020 and his Ph.D. degree from the Department of Electronic and Computer Engineering at The Hong Kong University of Science and Technology in 2024, where he is currently a Post-Doctoral Fellow. His research interests include reconﬁgurable intelligent surfaces, microwave circuits, MIMO systems, mil-limeter waves, and 6G technology. Dr. Rao has been recognized with several prestigious fellowships and awards at national, international, and university levels, including the distinguished IEEE Antennas and Propagation Society Fellowship (IEEE APSF Award 2023) and HONORABLE MENTION award in IEEE AP-S/URSI 2024. 
 
+
 Ross Murch (S’84-M’90-SM’98-F’09) received the bachelor’s and Ph.D. degrees in Electrical and Elec-tronic Engineering from the University of Canter-bury, New Zealand. He is currently a Chair Professor in the Depart-ment of Electronic and Computer Engineering and a Senior Fellow at the Institute of Advanced Study both at the Hong Kong University of Science and Technology (HKUST). He is known for his research on multiple antenna technology including multiuser-MIMO, compact multiport antennas and multiport energy harvesting. His current research focus is creating new RF wave technology for making a better world and this includes RF imaging, energy harvesting, electromagnetic information theory, 6G, IoT, multiport antenna systems and reconﬁgurable intelligent surfaces. His unique expertise lies in his combination of knowledge from both wireless communication systems and electromagnetics and he publishes in both areas. For example, he has more than 50 journal papers in IEEE Transactions on Antennas and Propagation, 40 journal papers in IEEE Transactions on Wireless Communications from over 200 journal paper publications and 20 patents that have attracted 20,000+ citations. Prof. Murch has also successfully supervised more than 50 research students, enjoys teaching and has won ﬁve teaching awards. Prof. Murch was Department Head at HKUST from 2009-2015, is an IEEE, IET, HKAE, HKIE and NASI Fellow. He has been a David Bensted Fellow, Simon Fraser University, Canada, an HKTIIT fellow at Southampton University, U.K and has spent sabbaticals at MIT, USA; AT&T, USA; Allgon Mobile Communications, Sweden; Imperial College London. He was awarded the IEEE Communications Society Wireless Communications Technical Com-mittee Recognition Award in 2023. He has served IEEE in various positions including IEEE area editor, technical program chair, distinguished lecturer and Fellow evaluation committee.
 
+
 Professor Ross Murch joined HKUST in 1992 as an Assistant Professor and has remained at HKUST in Hong Kong since then, where he is now a Chair Professor. From 1990–1992 he was a Post-Doctoral Fellow at the Department of Mathematics and Computer Science, University of Dundee, UK. Pablo Ramírez-Espinosa received the M.Sc. and Ph.D. degrees in telecommunication engineering from the University of Málaga, Spain, in 2017 and 2020, respectively. From 2020 to 2022, he was a Post-Doctoral Researcher with the Connectivity Section, Department of Electronic Systems, Aalborg University, Denmark. From 2022 to 2024, he was a “Maria Zambrano” Post-Doctoral Fellow (National-Funded) with the University of Granada, Spain. In 2018, he was a Visiting Researcher with Queen?s University Belfast. He is currently an MSCA Post-Doctoral Fellow with the Telecommunications Research Institute (TELMA), University of Málaga. His main research interests include wireless commu-nications, particularly dynamic metasurface antennas, ﬂuid antennas, ultra-reliable low-latency communications, and channel modeling. David Morales-Jimenez (M’13-SM’19) is an RyC Research Professor with the Department of Signal Theory, Networking and Communications at Univer-sity of Granada (Spain). He received the M.Sc. and Ph.D. degrees in Telecommunication Technologies from University of Malaga (Spain) in 2008 and 2011, respectively. Between 2011 and 2013 he was a Postdoctoral Fellow at Universitat Pompeu Fabra (Barcelona, Spain). He then joined the Hong Kong University of Science and Technology (HKUST), ﬁrst as Visiting Scholar (2014–2016) and then as Re-search Assistant Professor (2016–2018) with the Department of Electronic and Computer Engineering. He was a Lecturer (Assistant Professor) at Queen's University Belfast (2018–2021) and an Associate Professor at University of Malaga (2021–2022). He also held visiting appointments at University College London (Electronic and Electrical Engineering, 2010) and at Stanford Uni-versity (Statistics Department, 2015). His research interests include statistical signal processing, random matrix theory, and high-dimensional statistics, with multidisciplinary applications to wireless communications and computational biology.
+
 
 Prof. Morales is a Senior Area Editor of the IEEE Transactions on Signal Processing and an Elected Member of the IEEE Technical Committee on Signal Processing for Communications and Networking (SPCOM). He received the Best Ph.D. Thesis Award in Electrical and Computer Engineering by the University of Malaga. He and his coauthors received the Best ‘Statistica Sinica’ paper award at Joint Statistical Meetings 2020. He was a Poster Co-
 Chair of the IEEE Communication Theory Workshop 2022 and a General Co-Chair of the IEEE Spanish Workshop on Signal Processing, Information Theory and Communications 2022. Chan-Byoung Chae (S’06-M’09-SM’12-F’21) is an
