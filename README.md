@@ -1,3 +1,4 @@
-# empty-repo-2
+# Research-Articles
 
-This repository will be used for test purposes 
+This repository contains summaries of some research articles
+
